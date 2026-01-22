@@ -9,15 +9,21 @@ The project follows a complete end-to-end data analytics and machine learning wo
 #🎯 Objectives :
 
 Analyze customer behavior and service usage patterns
+
 Identify key factors contributing to customer churn
+
 Build predictive churn models with interpretable results
+
 Segment customers based on churn risk
+
 Provide business-ready churn risk exports for retention strategies
 
 #🛠️ Tools & Technologies :
 
 Language: Python
+
 Environment: Google Colab (Cloud-based Jupyter Notebook)
+
 Libraries Used:
 pandas
 numpy
@@ -28,13 +34,16 @@ scikit-learn
 #📊 Dataset :
 
 Type: Synthetic but realistic telecom customer dataset
+
 Records: ~7,000 customer-level records
+
 Key Characteristics :
 Mixed categorical and numerical features
 Raw and uncleaned fields (object-typed numeric columns)
 Missing and inconsistent values
 Realistic churn distribution
-Key Fields
+
+Key Fields :
 customerID
 tenure
 MonthlyCharges
@@ -48,51 +57,85 @@ The dataset was intentionally designed to mimic real-world raw business data, re
 #🔍 Data Cleaning & Preprocessing :
 
 Key cleaning steps included:
+
 Converting TotalCharges from object to numeric
+
 Handling blank and invalid values using business logic
+
 Encoding churn target variable
+
 Standardizing categorical values
+
 Removing duplicate records
+
 These steps ensured the dataset was fully analysis- and model-ready.
 
 #📊 Exploratory Data Analysis (EDA) :
 
 Key insights from EDA:
+
 Approximately one-fourth of customers churned
+
 Customers with shorter tenure churn significantly more
+
 Higher monthly charges are associated with increased churn risk
+
 Month-to-month contracts show the highest churn
+
 Auto-payment and long-term contracts reduce churn
+
 Visualizations included:
+
 Churn distribution plots
+
 Tenure vs churn analysis
+
 Monthly charges vs churn (box & violin plots)
+
 Contract and payment method churn comparisons
+
 Correlation heatmaps
 
 #🧠 Advanced Feature Engineering :
 
 To improve predictive performance and business interpretability, the following features were engineered:
+
 Tenure groups representing customer lifecycle stages
+
 Service count as a proxy for customer engagement
+
 Average monthly spend to normalize revenue across tenure
+
 Long-term contract flag to capture commitment
+
 Auto-payment indicator reflecting billing behavior
 
 #🤖 Modeling & Evaluation :
 
 Two baseline models were developed:
+
 Logistic Regression
+
 Used as the primary model due to high interpretability
+
 Enabled identification of key churn drivers
+
 Balanced performance between precision and recall
+
 Decision Tree
+
 Used for comparison
+
 Captured non-linear relationships
+
 Limited depth to reduce overfitting
+
 Model evaluation focused on:
+
 Recall for churned customers
+
 Confusion matrix analysis
+
 Business interpretability over pure accuracy
 
 #📌 Churn Risk Segmentation :
@@ -123,11 +166,11 @@ By combining exploratory analysis, feature engineering, interpretable modeling, 
 
 #🚀 Future Enhancements: 
 
-Hyperparameter tuning and advanced models (XGBoost, Random Forest)
-Integration with RFM segments for deeper customer intelligence
-Time-based churn analysis
-Retention campaign impact measurement
-Interactive dashboards (Power BI / Tableau)
+1. Hyperparameter tuning and advanced models (XGBoost, Random Forest)
+2. Integration with RFM segments for deeper customer intelligence
+3. Time-based churn analysis
+4. Retention campaign impact measurement
+5. Interactive dashboards (Power BI / Tableau)
 
 #☁️ Execution Environment :
 
