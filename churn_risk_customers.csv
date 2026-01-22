@@ -1,0 +1,1762 @@
+customerID,Churn_Probability,Churn_Risk_Segment,Actual_Churn,tenure,MonthlyCharges,service_count,Contract,PaymentMethod
+CUST04885,0.4678488624846223,Medium Risk,0,0,94.24,4,One year,Credit card (automatic)
+CUST01946,0.4577523187000039,Medium Risk,1,0,94.24,3,One year,Mailed check
+CUST04706,0.44319181189009255,Medium Risk,0,0,94.24,1,Two year,Credit card (automatic)
+CUST02099,0.44319181189009255,Medium Risk,1,0,94.24,1,One year,Credit card (automatic)
+CUST00906,0.4362008536880732,Medium Risk,0,0,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03474,0.4362008536880732,Medium Risk,1,0,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04722,0.43613483249763546,Medium Risk,0,0,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04030,0.43299647888035325,Medium Risk,0,0,94.24,3,Two year,Electronic check
+CUST04728,0.43299647888035325,Medium Risk,1,0,94.24,3,Two year,Mailed check
+CUST01276,0.4171230666470436,Medium Risk,0,0,94.24,1,Month-to-month,Electronic check
+CUST02581,0.4017963571103446,Medium Risk,0,0,94.24,3,Month-to-month,Electronic check
+CUST02923,0.364245810739467,Low Risk,0,1,94.24,1,One year,Credit card (automatic)
+CUST01373,0.3641679872592586,Low Risk,1,0,94.24,2,Month-to-month,Credit card (automatic)
+CUST00104,0.3612776961425693,Low Risk,1,0,94.24,1,One year,Electronic check
+CUST01183,0.3610918704278046,Low Risk,0,0,94.24,4,Two year,Electronic check
+CUST06528,0.355432730209338,Low Risk,0,0,94.24,4,Month-to-month,Credit card (automatic)
+CUST06821,0.3548325533269033,Low Risk,0,1,94.24,1,One year,Mailed check
+CUST04439,0.3547710980978643,Low Risk,0,1,94.24,2,One year,Electronic check
+CUST02415,0.35469416955364147,Low Risk,0,0,94.24,3,Month-to-month,Mailed check
+CUST05661,0.3533619096432148,Low Risk,1,1,94.24,4,Two year,Bank transfer (automatic)
+CUST03784,0.34116714572256496,Low Risk,1,0,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00073,0.3366562881963846,Low Risk,1,2,94.24,4,One year,Electronic check
+CUST04272,0.3366562881963846,Low Risk,0,2,94.24,4,One year,Electronic check
+CUST00901,0.3324695608541879,Low Risk,0,1,94.24,3,One year,Credit card (automatic)
+CUST02820,0.3317669782466744,Low Risk,1,2,94.24,4,Two year,Credit card (automatic)
+CUST01703,0.33041968005007355,Low Risk,0,2,94.24,2,One year,Electronic check
+CUST04051,0.32340094627031857,Low Risk,1,1,94.24,4,Two year,Mailed check
+CUST06425,0.32282562768380985,Low Risk,0,2,94.24,3,Two year,Electronic check
+CUST05713,0.3222300369800314,Low Risk,0,1,94.24,3,One year,Bank transfer (automatic)
+CUST04814,0.3163849680542693,Low Risk,0,3,94.24,2,One year,Bank transfer (automatic)
+CUST03493,0.31632690686838877,Low Risk,0,3,94.24,3,Two year,Bank transfer (automatic)
+CUST03712,0.3129998301827815,Low Risk,1,3,94.24,2,One year,Bank transfer (automatic)
+CUST00696,0.3122106563701542,Low Risk,0,3,94.24,1,One year,Credit card (automatic)
+CUST06852,0.31209537231881285,Low Risk,1,3,94.24,3,One year,Credit card (automatic)
+CUST03484,0.3120377390149038,Low Risk,0,3,94.24,4,Two year,Credit card (automatic)
+CUST06683,0.31146314461427227,Low Risk,1,4,94.24,5,One year,Bank transfer (automatic)
+CUST05804,0.30929585539758586,Low Risk,1,1,94.24,3,Month-to-month,Mailed check
+CUST06135,0.30850741157995104,Low Risk,1,3,94.24,1,Two year,Electronic check
+CUST05482,0.3084946223188308,Low Risk,0,69,94.24,4,Two year,Credit card (automatic)
+CUST03731,0.30816088092538624,Low Risk,0,66,94.24,0,One year,Credit card (automatic)
+CUST03971,0.3076101226328351,Low Risk,0,3,94.24,2,Two year,Electronic check
+CUST04403,0.3076101226328351,Low Risk,0,3,94.24,2,One year,Mailed check
+CUST01557,0.3072914589035063,Low Risk,0,4,94.24,3,Two year,Bank transfer (automatic)
+CUST05338,0.3072914589035063,Low Risk,0,4,94.24,3,One year,Bank transfer (automatic)
+CUST04947,0.3064914778192446,Low Risk,1,58,94.24,3,One year,Credit card (automatic)
+CUST01245,0.30599991408742294,Low Risk,0,5,94.24,4,One year,Mailed check
+CUST02044,0.30531391387287127,Low Risk,0,52,94.24,4,One year,Bank transfer (automatic)
+CUST01714,0.304640773333908,Low Risk,0,49,94.24,6,Two year,Bank transfer (automatic)
+CUST03033,0.3046214291806205,Low Risk,0,1,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST01367,0.3043649976767012,Low Risk,0,2,94.24,3,One year,Electronic check
+CUST02281,0.30426352059034595,Low Risk,1,4,94.24,3,Two year,Bank transfer (automatic)
+CUST01792,0.304138890085323,Low Risk,0,46,94.24,5,One year,Credit card (automatic)
+CUST04304,0.3037929837737116,Low Risk,0,5,94.24,3,One year,Electronic check
+CUST03169,0.30350018513256005,Low Risk,0,3,94.24,1,Two year,Electronic check
+CUST04053,0.3033866986854571,Low Risk,0,3,94.24,3,Two year,Mailed check
+CUST02032,0.3033795607814666,Low Risk,1,67,94.24,3,One year,Credit card (automatic)
+CUST03008,0.30263400030864923,Low Risk,1,9,94.24,2,Two year,Bank transfer (automatic)
+CUST03362,0.30208210678945807,Low Risk,1,58,94.24,0,One year,Credit card (automatic)
+CUST04584,0.3019685046427192,Low Risk,0,6,94.24,2,Two year,Electronic check
+CUST05664,0.3018940106963163,Low Risk,0,33,94.24,2,One year,Bank transfer (automatic)
+CUST00500,0.3018772714267971,Low Risk,1,64,94.24,0,One year,Credit card (automatic)
+CUST02642,0.3016865333811796,Low Risk,0,10,94.24,6,One year,Bank transfer (automatic)
+CUST04792,0.30154949153349664,Low Risk,0,63,94.24,3,One year,Bank transfer (automatic)
+CUST04736,0.3014666219700464,Low Risk,0,5,94.24,2,One year,Bank transfer (automatic)
+CUST03980,0.3012251407287879,Low Risk,0,30,94.24,4,Two year,Bank transfer (automatic)
+CUST03692,0.3008393720882869,Low Risk,1,27,94.24,1,Two year,Credit card (automatic)
+CUST03556,0.30046832365566767,Low Risk,0,9,94.24,1,Two year,Credit card (automatic)
+CUST01534,0.3004203668685121,Low Risk,0,11,94.24,1,One year,Bank transfer (automatic)
+CUST05539,0.3002861400995775,Low Risk,1,54,94.24,1,Two year,Bank transfer (automatic)
+CUST06627,0.29977069405395085,Low Risk,0,68,94.24,2,One year,Electronic check
+CUST02328,0.2997460617462656,Low Risk,0,22,94.24,4,One year,Bank transfer (automatic)
+CUST00235,0.2996580021747765,Low Risk,0,68,94.24,4,Two year,Electronic check
+CUST02519,0.2992219913973065,Low Risk,1,5,94.24,2,One year,Bank transfer (automatic)
+CUST04894,0.2988483388434462,Low Risk,1,63,94.24,2,Two year,Electronic check
+CUST02509,0.29877072893146206,Low Risk,0,68,94.24,3,One year,Bank transfer (automatic)
+CUST02360,0.29875195539751626,Low Risk,1,16,94.24,2,Two year,Bank transfer (automatic)
+CUST03753,0.2986586353035005,Low Risk,1,4,94.24,3,Two year,Electronic check
+CUST04685,0.2986248591463256,Low Risk,1,67,94.24,3,Two year,Credit card (automatic)
+CUST06693,0.2985677139921769,Low Risk,0,15,94.24,2,Two year,Bank transfer (automatic)
+CUST03080,0.2985114947516319,Low Risk,1,15,94.24,3,Two year,Bank transfer (automatic)
+CUST02980,0.2981099392230929,Low Risk,0,63,94.24,2,One year,Credit card (automatic)
+CUST06454,0.29810410743865834,Low Risk,0,2,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST06765,0.29804793840057214,Low Risk,0,2,94.24,2,Month-to-month,Credit card (automatic)
+CUST05092,0.29797052940426266,Low Risk,1,62,94.24,2,One year,Credit card (automatic)
+CUST01271,0.2979356185960344,Low Risk,0,2,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST03216,0.29768753531595993,Low Risk,0,57,94.24,3,Two year,Electronic check
+CUST04425,0.29764748682926506,Low Risk,0,10,94.24,2,One year,Credit card (automatic)
+CUST04542,0.29746233470336064,Low Risk,1,51,94.24,5,Two year,Bank transfer (automatic)
+CUST00876,0.29745000515905096,Low Risk,0,50,94.24,3,Two year,Credit card (automatic)
+CUST01157,0.2970918158839577,Low Risk,0,17,94.24,2,Two year,Credit card (automatic)
+CUST05130,0.297091355425046,Low Risk,0,47,94.24,3,One year,Credit card (automatic)
+CUST00711,0.2970357568646847,Low Risk,0,17,94.24,3,One year,Bank transfer (automatic)
+CUST00005,0.2970247714920594,Low Risk,0,26,94.24,5,One year,Bank transfer (automatic)
+CUST01544,0.29691248311437896,Low Risk,1,6,94.24,2,One year,Bank transfer (automatic)
+CUST03766,0.29689643068652194,Low Risk,0,53,94.24,4,Two year,Electronic check
+CUST02302,0.29680041028337334,Low Risk,1,6,94.24,4,Two year,Credit card (automatic)
+CUST01687,0.2965692062600953,Low Risk,0,41,94.24,1,One year,Credit card (automatic)
+CUST03673,0.2964572083678951,Low Risk,0,41,94.24,3,Two year,Credit card (automatic)
+CUST05193,0.2961555365092148,Low Risk,0,49,94.24,5,One year,Credit card (automatic)
+CUST00966,0.29602309886405415,Low Risk,0,72,94.24,0,Two year,Credit card (automatic)
+CUST00983,0.2959952047730705,Low Risk,0,1,94.24,2,One year,Bank transfer (automatic)
+CUST04023,0.295979181060557,Low Risk,0,48,94.24,4,One year,Electronic check
+CUST02275,0.295939265557459,Low Risk,0,1,94.24,3,One year,Credit card (automatic)
+CUST05751,0.29591967944351205,Low Risk,0,1,94.24,5,Month-to-month,Electronic check
+CUST06497,0.2958812923499209,Low Risk,0,32,94.24,2,One year,Bank transfer (automatic)
+CUST02429,0.295879173175771,Low Risk,0,24,94.24,3,One year,Credit card (automatic)
+CUST00505,0.2957993665526628,Low Risk,0,72,94.24,4,One year,Bank transfer (automatic)
+CUST06896,0.2957912798169934,Low Risk,0,4,94.24,1,One year,Electronic check
+CUST05003,0.2957186825980195,Low Risk,1,6,94.24,1,Two year,Credit card (automatic)
+CUST02318,0.29562374859527285,Low Risk,1,42,94.24,2,Two year,Bank transfer (automatic)
+CUST01514,0.2956068709237586,Low Risk,1,6,94.24,3,One year,Credit card (automatic)
+CUST04907,0.2955678501072488,Low Risk,0,42,94.24,3,One year,Bank transfer (automatic)
+CUST06761,0.29554482965040063,Low Risk,0,70,94.24,2,Two year,Bank transfer (automatic)
+CUST00430,0.2955251332896262,Low Risk,1,22,94.24,3,One year,Bank transfer (automatic)
+CUST05445,0.29549508378786327,Low Risk,0,6,94.24,5,One year,Bank transfer (automatic)
+CUST00334,0.29543305613596993,Low Risk,0,70,94.24,4,Two year,Credit card (automatic)
+CUST00018,0.29526884847316576,Low Risk,1,24,94.24,3,One year,Credit card (automatic)
+CUST01746,0.29515076290186587,Low Risk,1,3,94.24,3,One year,Mailed check
+CUST02962,0.29507772340247823,Low Risk,1,33,94.24,2,One year,Credit card (automatic)
+CUST04358,0.29501117196682786,Low Risk,0,68,94.24,5,Two year,Bank transfer (automatic)
+CUST03765,0.29497370718513966,Low Risk,0,68,94.24,3,One year,Electronic check
+CUST00006,0.29481283873714603,Low Risk,0,66,94.24,2,One year,Credit card (automatic)
+CUST06690,0.29477245657486845,Low Risk,0,67,94.24,6,One year,Bank transfer (automatic)
+CUST04986,0.2947416027292946,Low Risk,1,65,94.24,0,Two year,Bank transfer (automatic)
+CUST02770,0.29457078684676685,Low Risk,1,40,94.24,3,One year,Mailed check
+CUST03886,0.2943914701829671,Low Risk,0,64,94.24,3,One year,Bank transfer (automatic)
+CUST03763,0.29426453850936585,Low Risk,1,63,94.24,2,One year,Credit card (automatic)
+CUST01322,0.294230502931615,Low Risk,0,7,94.24,4,Two year,Credit card (automatic)
+CUST02374,0.2940819039449778,Low Risk,0,62,94.24,2,One year,Credit card (automatic)
+CUST01015,0.2940819039449778,Low Risk,0,62,94.24,2,One year,Bank transfer (automatic)
+CUST04605,0.2940261753013305,Low Risk,0,62,94.24,3,Two year,Bank transfer (automatic)
+CUST05216,0.2940261753013305,Low Risk,1,62,94.24,3,One year,Credit card (automatic)
+CUST05831,0.2938436270796192,Low Risk,0,61,94.24,3,Two year,Bank transfer (automatic)
+CUST04748,0.29378792479759486,Low Risk,0,61,94.24,4,One year,Credit card (automatic)
+CUST02184,0.2937293967606543,Low Risk,0,61,94.24,5,One year,Mailed check
+CUST06510,0.29365772132933393,Low Risk,0,35,94.24,3,One year,Mailed check
+CUST04207,0.29354978707514223,Low Risk,1,60,94.24,5,Two year,Bank transfer (automatic)
+CUST04596,0.2934230673948937,Low Risk,0,59,94.24,4,Two year,Bank transfer (automatic)
+CUST01117,0.2933215602783479,Low Risk,0,65,94.24,3,Two year,Mailed check
+CUST04591,0.2931140964607226,Low Risk,0,57,94.24,3,Two year,Bank transfer (automatic)
+CUST02541,0.2931107240926228,Low Risk,1,7,94.24,1,Two year,Credit card (automatic)
+CUST05377,0.2930584750794092,Low Risk,1,57,94.24,4,Two year,Bank transfer (automatic)
+CUST01110,0.29305510308594884,Low Risk,0,7,94.24,2,One year,Bank transfer (automatic)
+CUST06737,0.29298748685715004,Low Risk,0,56,94.24,2,One year,Bank transfer (automatic)
+CUST03129,0.29287263786688816,Low Risk,1,5,94.24,3,One year,Electronic check
+CUST04571,0.2927497289939818,Low Risk,0,55,94.24,3,One year,Credit card (automatic)
+CUST01811,0.29265094191660557,Low Risk,1,53,94.24,2,Two year,Electronic check
+CUST04498,0.29254600207022124,Low Risk,0,5,94.24,2,One year,Credit card (automatic)
+CUST04318,0.2924348918898041,Low Risk,0,5,94.24,4,One year,Credit card (automatic)
+CUST01019,0.2922592020824236,Low Risk,0,52,94.24,2,Two year,Bank transfer (automatic)
+CUST02425,0.29220367586750734,Low Risk,0,52,94.24,3,One year,Credit card (automatic)
+CUST00218,0.2920926420227935,Low Risk,0,52,94.24,5,Two year,Bank transfer (automatic)
+CUST02993,0.29208951554392687,Low Risk,1,11,94.24,4,Two year,Mailed check
+CUST01100,0.2920772970292077,Low Risk,1,51,94.24,2,Two year,Credit card (automatic)
+CUST04757,0.29202179111449017,Low Risk,0,51,94.24,3,One year,Bank transfer (automatic)
+CUST02097,0.2919941832569401,Low Risk,0,8,94.24,3,One year,Bank transfer (automatic)
+CUST00280,0.2919662913976461,Low Risk,0,51,94.24,4,Two year,Bank transfer (automatic)
+CUST03690,0.2918537581153652,Low Risk,1,48,94.24,3,One year,Electronic check
+CUST06606,0.29164288967183305,Low Risk,1,48,94.24,0,Two year,Bank transfer (automatic)
+CUST00232,0.2914765361970588,Low Risk,0,48,94.24,3,One year,Bank transfer (automatic)
+CUST01184,0.2914057732153701,Low Risk,1,47,94.24,1,One year,Bank transfer (automatic)
+CUST00625,0.2913539236840534,Low Risk,0,67,94.24,2,Two year,Mailed check
+CUST06312,0.29125825809269396,Low Risk,0,52,94.24,5,Two year,Electronic check
+CUST06517,0.29125825809269396,Low Risk,0,52,94.24,5,One year,Mailed check
+CUST02122,0.29123949938374966,Low Risk,1,47,94.24,4,One year,Bank transfer (automatic)
+CUST00145,0.2912277707453273,Low Risk,1,51,94.24,3,One year,Electronic check
+CUST05700,0.29122418077153006,Low Risk,0,46,94.24,1,One year,Bank transfer (automatic)
+CUST02805,0.29122418077153006,Low Risk,0,46,94.24,1,One year,Bank transfer (automatic)
+CUST03666,0.2911927034928768,Low Risk,0,3,94.24,1,One year,Electronic check
+CUST04777,0.29105796799475164,Low Risk,0,46,94.24,4,Two year,Bank transfer (automatic)
+CUST02504,0.29097111300418543,Low Risk,0,3,94.24,5,One year,Electronic check
+CUST00326,0.29087309869378325,Low Risk,0,20,94.24,4,Two year,Mailed check
+CUST03328,0.29087309869378325,Low Risk,1,20,94.24,4,One year,Electronic check
+CUST04065,0.29080582621969425,Low Risk,1,44,94.24,2,One year,Bank transfer (automatic)
+CUST03813,0.2907544539755932,Low Risk,1,40,94.24,3,Two year,Mailed check
+CUST04253,0.29072072347734956,Low Risk,1,5,94.24,2,Two year,Mailed check
+CUST06190,0.29066536951341654,Low Risk,1,5,94.24,3,One year,Mailed check
+CUST06850,0.2906244543018388,Low Risk,0,43,94.24,2,Two year,Credit card (automatic)
+CUST04778,0.2906244543018388,Low Risk,0,43,94.24,2,Two year,Credit card (automatic)
+CUST04870,0.29058839937619546,Low Risk,1,40,94.24,6,Two year,Electronic check
+CUST01527,0.2905691111586273,Low Risk,1,43,94.24,3,One year,Credit card (automatic)
+CUST05757,0.290517028284697,Low Risk,0,62,94.24,4,Two year,Electronic check
+CUST00327,0.29049117346725184,Low Risk,0,12,94.24,4,One year,Electronic check
+CUST00333,0.29036939957809554,Low Risk,0,68,94.24,4,One year,Credit card (automatic)
+CUST02219,0.29026191087684194,Low Risk,0,41,94.24,2,Two year,Credit card (automatic)
+CUST03382,0.2902043354904123,Low Risk,0,9,94.24,3,One year,Credit card (automatic)
+CUST06565,0.290151312409011,Low Risk,0,41,94.24,4,One year,Bank transfer (automatic)
+CUST03375,0.29013602760310203,Low Risk,1,40,94.24,1,Two year,Credit card (automatic)
+CUST04070,0.29013602760310203,Low Risk,1,40,94.24,1,Two year,Bank transfer (automatic)
+CUST02763,0.29013602760310203,Low Risk,1,40,94.24,1,One year,Credit card (automatic)
+CUST01247,0.29013602760310203,Low Risk,0,40,94.24,1,Two year,Credit card (automatic)
+CUST00024,0.2900589499857643,Low Risk,1,72,94.24,0,Two year,Credit card (automatic)
+CUST05099,0.29004654018442405,Low Risk,0,66,94.24,2,One year,Electronic check
+CUST02564,0.29002545750015535,Low Risk,0,40,94.24,3,Two year,Credit card (automatic)
+CUST03560,0.29002545750015535,Low Risk,0,40,94.24,3,Two year,Credit card (automatic)
+CUST02136,0.2899448765307717,Low Risk,0,64,94.24,0,Two year,Credit card (automatic)
+CUST02463,0.28993952497786424,Low Risk,1,65,94.24,3,Two year,Bank transfer (automatic)
+CUST03817,0.28991546191883544,Low Risk,0,40,94.24,1,One year,Electronic check
+CUST06385,0.28991546191883544,Low Risk,0,40,94.24,1,Two year,Mailed check
+CUST04720,0.28989963488714104,Low Risk,1,39,94.24,2,Two year,Bank transfer (automatic)
+CUST04601,0.28989623702198397,Low Risk,1,14,94.24,2,One year,Mailed check
+CUST01846,0.2898784637585691,Low Risk,1,57,94.24,3,One year,Electronic check
+CUST04497,0.28984437337387514,Low Risk,1,39,94.24,3,Two year,Bank transfer (automatic)
+CUST05504,0.28984437337387514,Low Risk,0,39,94.24,3,One year,Credit card (automatic)
+CUST00251,0.28984437337387514,Low Risk,1,39,94.24,3,One year,Credit card (automatic)
+CUST03605,0.28982843161965205,Low Risk,1,4,94.24,2,One year,Mailed check
+CUST02261,0.289788382646986,Low Risk,1,71,94.24,2,One year,Credit card (automatic)
+CUST06162,0.289788382646986,Low Risk,0,71,94.24,2,Two year,Credit card (automatic)
+CUST04478,0.2897185972631198,Low Risk,0,38,94.24,2,Two year,Credit card (automatic)
+CUST06672,0.28967459873060336,Low Risk,0,63,94.24,2,Two year,Bank transfer (automatic)
+CUST02378,0.28966700239484616,Low Risk,1,55,94.24,2,Two year,Mailed check
+CUST02454,0.2896633561825252,Low Risk,0,38,94.24,3,One year,Credit card (automatic)
+CUST05248,0.2896599599570809,Low Risk,0,13,94.24,3,Two year,Electronic check
+CUST00741,0.2896226544822605,Low Risk,1,71,94.24,5,Two year,Credit card (automatic)
+CUST01790,0.28953629236758677,Low Risk,0,54,94.24,2,Two year,Electronic check
+CUST02242,0.2894736562884885,Low Risk,0,30,94.24,6,Two year,Mailed check
+CUST02517,0.28946035673944703,Low Risk,1,62,94.24,3,One year,Credit card (automatic)
+CUST02391,0.2894573755181064,Low Risk,0,27,94.24,2,One year,Mailed check
+CUST07007,0.2894097091545328,Low Risk,0,61,94.24,1,Two year,Electronic check
+CUST01251,0.2893021097486204,Low Risk,0,61,94.24,3,Two year,Bank transfer (automatic)
+CUST00021,0.28930152273606363,Low Risk,0,36,94.24,3,Two year,Bank transfer (automatic)
+CUST00092,0.2892806621837835,Low Risk,1,52,94.24,2,Two year,Electronic check
+CUST05007,0.2892469157413648,Low Risk,1,61,94.24,4,Two year,Bank transfer (automatic)
+CUST06947,0.28921422596679747,Low Risk,0,7,94.24,2,Two year,Bank transfer (automatic)
+CUST06029,0.28919983818029965,Low Risk,1,60,94.24,2,One year,Credit card (automatic)
+CUST03745,0.2891898326222593,Low Risk,0,3,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04479,0.28917588626899415,Low Risk,1,35,94.24,2,One year,Bank transfer (automatic)
+CUST03407,0.2890809563632042,Low Risk,0,8,94.24,3,One year,Credit card (automatic)
+CUST06212,0.28906553307136806,Low Risk,0,35,94.24,4,Two year,Bank transfer (automatic)
+CUST05726,0.2890536664720811,Low Risk,1,66,94.24,1,Two year,Credit card (automatic)
+CUST02204,0.2888848044234633,Low Risk,0,34,94.24,4,Two year,Bank transfer (automatic)
+CUST04296,0.28875927539789653,Low Risk,0,33,94.24,3,Two year,Credit card (automatic)
+CUST00120,0.288732480021242,Low Risk,1,65,94.24,4,One year,Credit card (automatic)
+CUST02034,0.28864901662459885,Low Risk,0,33,94.24,5,Two year,Credit card (automatic)
+CUST04045,0.28864399285444015,Low Risk,0,63,94.24,0,One year,Bank transfer (automatic)
+CUST04083,0.2886261424223454,Low Risk,0,17,94.24,2,One year,Mailed check
+CUST02460,0.28858105038775406,Low Risk,0,24,94.24,4,One year,Electronic check
+CUST00385,0.2885235354468548,Low Risk,0,56,94.24,3,One year,Bank transfer (automatic)
+CUST01831,0.2884584668212203,Low Risk,0,46,94.24,4,Two year,Electronic check
+CUST00472,0.28835517061024435,Low Risk,0,18,94.24,2,Two year,Electronic check
+CUST03774,0.28834936235115666,Low Risk,0,45,94.24,4,Two year,Mailed check
+CUST00473,0.28833849009936224,Low Risk,0,61,94.24,0,Two year,Credit card (automatic)
+CUST00423,0.28832896788836415,Low Risk,0,54,94.24,1,Two year,Credit card (automatic)
+CUST05942,0.2883112824047071,Low Risk,1,10,94.24,2,Two year,Credit card (automatic)
+CUST06926,0.288267315010925,Low Risk,0,52,94.24,1,One year,Electronic check
+CUST02499,0.28822832688564876,Low Risk,0,61,94.24,2,One year,Bank transfer (automatic)
+CUST02734,0.2881086708401852,Low Risk,1,54,94.24,5,Two year,Bank transfer (automatic)
+CUST02376,0.28809227567057155,Low Risk,0,29,94.24,2,One year,Credit card (automatic)
+CUST01146,0.28809227567057155,Low Risk,0,29,94.24,2,One year,Bank transfer (automatic)
+CUST03410,0.28803721893246814,Low Risk,0,29,94.24,3,Two year,Bank transfer (automatic)
+CUST03989,0.28798183216374157,Low Risk,1,59,94.24,1,Two year,Credit card (automatic)
+CUST04987,0.28794252395606035,Low Risk,1,20,94.24,2,Two year,Electronic check
+CUST02316,0.2878720863147697,Low Risk,0,29,94.24,6,One year,Credit card (automatic)
+CUST05586,0.2878720863147697,Low Risk,0,29,94.24,6,One year,Credit card (automatic)
+CUST01574,0.2878534892583021,Low Risk,0,3,94.24,3,One year,Electronic check
+CUST06140,0.2878534892583021,Low Risk,0,3,94.24,3,One year,Electronic check
+CUST00227,0.28782515612285686,Low Risk,0,39,94.24,3,Two year,Electronic check
+CUST02154,0.2877984597060244,Low Risk,0,3,94.24,4,One year,Mailed check
+CUST06748,0.28773189377723857,Low Risk,0,11,94.24,1,Two year,Credit card (automatic)
+CUST00841,0.2877316097970984,Low Risk,1,27,94.24,2,One year,Credit card (automatic)
+CUST06589,0.2877316097970984,Low Risk,0,27,94.24,2,One year,Bank transfer (automatic)
+CUST01476,0.2877225004355709,Low Risk,1,37,94.24,2,Two year,Electronic check
+CUST02069,0.2876215847395564,Low Risk,1,27,94.24,4,One year,Credit card (automatic)
+CUST06713,0.28761247745478496,Low Risk,0,37,94.24,4,One year,Electronic check
+CUST00036,0.28761247745478496,Low Risk,1,37,94.24,4,Two year,Mailed check
+CUST01317,0.2875873970292972,Low Risk,1,35,94.24,2,Two year,Mailed check
+CUST06772,0.2875195177526541,Low Risk,0,57,94.24,4,Two year,Bank transfer (automatic)
+CUST04179,0.28749822514443263,Low Risk,0,48,94.24,0,One year,Credit card (automatic)
+CUST03289,0.2874654301075462,Low Risk,1,72,94.24,2,One year,Electronic check
+CUST01342,0.2874568780166145,Low Risk,0,11,94.24,6,One year,Credit card (automatic)
+CUST05756,0.2874413938647618,Low Risk,0,26,94.24,4,One year,Bank transfer (automatic)
+CUST00266,0.2874324121634255,Low Risk,0,71,94.24,2,One year,Credit card (automatic)
+CUST03475,0.28742619401071007,Low Risk,0,25,94.24,1,Two year,Bank transfer (automatic)
+CUST00171,0.2874104448010835,Low Risk,0,72,94.24,3,One year,Electronic check
+CUST05572,0.287392677760623,Low Risk,0,26,94.24,2,Two year,Mailed check
+CUST05432,0.28737121318237757,Low Risk,0,25,94.24,2,Two year,Credit card (automatic)
+CUST05640,0.28736902148060817,Low Risk,1,27,94.24,2,Two year,Electronic check
+CUST01242,0.28732245536366857,Low Risk,0,71,94.24,4,Two year,Bank transfer (automatic)
+CUST01376,0.2873005351691708,Low Risk,0,47,94.24,1,One year,Credit card (automatic)
+CUST02822,0.28723033286884453,Low Risk,0,71,94.24,3,Two year,Electronic check
+CUST03689,0.2872277655856116,Low Risk,0,26,94.24,5,Two year,Electronic check
+CUST00710,0.2872211817427784,Low Risk,0,6,94.24,2,Two year,Mailed check
+CUST02913,0.28721509545357193,Low Risk,0,10,94.24,3,Two year,Credit card (automatic)
+CUST02371,0.28721342648164727,Low Risk,0,11,94.24,4,Two year,Credit card (automatic)
+CUST05299,0.28721342648164727,Low Risk,0,11,94.24,4,Two year,Credit card (automatic)
+CUST03502,0.28719111592698016,Low Risk,1,24,94.24,2,Two year,Bank transfer (automatic)
+CUST06830,0.28719111592698016,Low Risk,0,24,94.24,2,Two year,Credit card (automatic)
+CUST00635,0.28718829485140557,Low Risk,1,69,94.24,1,Two year,Credit card (automatic)
+CUST04927,0.28713334119289435,Low Risk,0,69,94.24,2,One year,Credit card (automatic)
+CUST03555,0.28703092742863695,Low Risk,0,22,94.24,4,One year,Electronic check
+CUST03892,0.28699535045689595,Low Risk,0,70,94.24,4,Two year,Mailed check
+CUST06294,0.2869852033941614,Low Risk,0,68,94.24,2,One year,Credit card (automatic)
+CUST04710,0.2869852033941614,Low Risk,0,68,94.24,2,Two year,Bank transfer (automatic)
+CUST01121,0.28693027295421725,Low Risk,0,68,94.24,3,One year,Credit card (automatic)
+CUST05000,0.2868860427746034,Low Risk,0,22,94.24,1,One year,Bank transfer (automatic)
+CUST05868,0.28687031124672313,Low Risk,0,69,94.24,3,One year,Mailed check
+CUST05797,0.286838048378397,Low Risk,0,67,94.24,2,One year,Bank transfer (automatic)
+CUST03843,0.28678358383660235,Low Risk,0,12,94.24,1,One year,Credit card (automatic)
+CUST05735,0.2867453046051535,Low Risk,0,68,94.24,2,Two year,Mailed check
+CUST05280,0.2867286764688514,Low Risk,0,12,94.24,2,Two year,Bank transfer (automatic)
+CUST02337,0.28671305965299687,Low Risk,0,51,94.24,3,One year,Bank transfer (automatic)
+CUST05754,0.28671147321173224,Low Risk,0,36,94.24,3,Two year,Mailed check
+CUST03837,0.2866904016203246,Low Risk,1,68,94.24,3,One year,Electronic check
+CUST06794,0.28667377538816735,Low Risk,0,12,94.24,3,One year,Bank transfer (automatic)
+CUST06117,0.28662643755014294,Low Risk,0,12,94.24,0,Two year,Bank transfer (automatic)
+CUST04337,0.28661603733226443,Low Risk,1,29,94.24,2,One year,Electronic check
+CUST06206,0.28659736470042324,Low Risk,1,1,94.24,0,Month-to-month,Electronic check
+CUST00279,0.28659633654056055,Low Risk,0,21,94.24,3,Two year,Bank transfer (automatic)
+CUST02672,0.2865654418728133,Low Risk,0,67,94.24,2,Two year,Mailed check
+CUST01618,0.2865611491541827,Low Risk,1,29,94.24,3,One year,Mailed check
+CUST06169,0.2865588495964256,Low Risk,0,42,94.24,2,Two year,Bank transfer (automatic)
+CUST05745,0.28654765831583023,Low Risk,1,49,94.24,1,Two year,Credit card (automatic)
+CUST02746,0.2865272455027443,Low Risk,0,66,94.24,5,Two year,Credit card (automatic)
+CUST03239,0.28651055949256354,Low Risk,1,67,94.24,3,Two year,Electronic check
+CUST04727,0.2864865709893022,Low Risk,1,21,94.24,5,One year,Credit card (automatic)
+CUST06566,0.28646178831087027,Low Risk,1,12,94.24,3,Two year,Bank transfer (automatic)
+CUST01813,0.28644909263771196,Low Risk,0,42,94.24,4,Two year,Bank transfer (automatic)
+CUST04363,0.28640503652175786,Low Risk,1,72,94.24,2,One year,Credit card (automatic)
+CUST02534,0.2863856466610407,Low Risk,1,66,94.24,2,One year,Electronic check
+CUST00950,0.2863616644187236,Low Risk,0,20,94.24,4,One year,Bank transfer (automatic)
+CUST03621,0.286348039980813,Low Risk,0,64,94.24,3,One year,Bank transfer (automatic)
+CUST03503,0.28633078489499214,Low Risk,0,66,94.24,3,One year,Mailed check
+CUST04259,0.2862232580281183,Low Risk,0,2,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04195,0.2862038748043846,Low Risk,0,71,94.24,3,Two year,Bank transfer (automatic)
+CUST03413,0.2861733825589247,Low Risk,1,62,94.24,1,Two year,Credit card (automatic)
+CUST06975,0.28616678577257515,Low Risk,0,18,94.24,1,One year,Bank transfer (automatic)
+CUST06031,0.28615466731624356,Low Risk,0,11,94.24,4,One year,Bank transfer (automatic)
+CUST00448,0.28615107785908667,Low Risk,0,65,94.24,3,One year,Mailed check
+CUST01508,0.2861490338968079,Low Risk,1,71,94.24,4,Two year,Bank transfer (automatic)
+CUST00064,0.28612710738384056,Low Risk,1,19,94.24,5,One year,Credit card (automatic)
+CUST04848,0.28610427368502017,Low Risk,0,38,94.24,1,Two year,Credit card (automatic)
+CUST05752,0.28606371404228537,Low Risk,0,62,94.24,3,One year,Bank transfer (automatic)
+CUST06341,0.28606314888860107,Low Risk,0,39,94.24,4,One year,Credit card (automatic)
+CUST02787,0.28604944421427714,Low Risk,0,38,94.24,2,One year,Credit card (automatic)
+CUST04081,0.286002294716641,Low Risk,0,18,94.24,4,Two year,Bank transfer (automatic)
+CUST03746,0.2859489207777169,Low Risk,1,70,94.24,5,Two year,Bank transfer (automatic)
+CUST06371,0.2859474769612892,Low Risk,0,18,94.24,5,One year,Credit card (automatic)
+CUST01743,0.28592282115588014,Low Risk,0,7,94.24,2,Two year,Mailed check
+CUST04613,0.2858263904028471,Low Risk,0,12,94.24,3,Two year,Credit card (automatic)
+CUST04044,0.28582585434590485,Low Risk,0,68,94.24,2,One year,Bank transfer (automatic)
+CUST03065,0.28579186659779854,Low Risk,0,63,94.24,3,One year,Mailed check
+CUST04144,0.2857844750800884,Low Risk,0,60,94.24,3,One year,Bank transfer (automatic)
+CUST03952,0.28576791416730185,Low Risk,0,17,94.24,5,Two year,Credit card (automatic)
+CUST04913,0.285756486864786,Low Risk,0,59,94.24,1,Two year,Credit card (automatic)
+CUST01291,0.2857296823666548,Low Risk,0,60,94.24,4,One year,Credit card (automatic)
+CUST04637,0.28571680163696905,Low Risk,0,12,94.24,5,Two year,Credit card (automatic)
+CUST00653,0.2857023298266143,Low Risk,0,36,94.24,4,Two year,Credit card (automatic)
+CUST05856,0.28567133758613855,Low Risk,0,5,94.24,2,Month-to-month,Credit card (automatic)
+CUST03313,0.2856671416484765,Low Risk,0,62,94.24,2,Two year,Mailed check
+CUST01240,0.2856671416484765,Low Risk,0,62,94.24,2,Two year,Mailed check
+CUST05354,0.2856434786857015,Low Risk,0,35,94.24,3,One year,Credit card (automatic)
+CUST01647,0.2856203557422349,Low Risk,0,58,94.24,1,Two year,Bank transfer (automatic)
+CUST05350,0.2856046132565051,Low Risk,0,43,94.24,4,Two year,Credit card (automatic)
+CUST04859,0.28553787468809166,Low Risk,1,42,94.24,3,Two year,Bank transfer (automatic)
+CUST05775,0.285503370572457,Low Risk,0,14,94.24,0,One year,Bank transfer (automatic)
+CUST00137,0.2854332401629736,Low Risk,0,66,94.24,4,Two year,Bank transfer (automatic)
+CUST04827,0.28543292595899106,Low Risk,1,61,94.24,3,One year,Mailed check
+CUST01540,0.28541290248810997,Low Risk,0,40,94.24,1,One year,Credit card (automatic)
+CUST03571,0.28540752141473175,Low Risk,0,56,94.24,0,One year,Credit card (automatic)
+CUST01642,0.2854030055062835,Low Risk,0,65,94.24,2,Two year,Credit card (automatic)
+CUST04926,0.28538139634439047,Low Risk,1,32,94.24,2,One year,Bank transfer (automatic)
+CUST01502,0.2853581525517864,Low Risk,0,40,94.24,2,One year,Bank transfer (automatic)
+CUST01736,0.28535525829592995,Low Risk,0,14,94.24,1,One year,Credit card (automatic)
+CUST01918,0.2853527720984461,Low Risk,1,56,94.24,1,Two year,Credit card (automatic)
+CUST06991,0.28534654966877904,Low Risk,0,58,94.24,6,One year,Bank transfer (automatic)
+CUST04530,0.2853391084222094,Low Risk,1,14,94.24,3,Two year,Bank transfer (automatic)
+CUST06768,0.28533409801989645,Low Risk,1,3,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST04549,0.2852843669902126,Low Risk,0,14,94.24,4,Two year,Credit card (automatic)
+CUST06265,0.2852457780193357,Low Risk,1,14,94.24,3,One year,Credit card (automatic)
+CUST02159,0.2852324466022229,Low Risk,0,14,94.24,3,One year,Bank transfer (automatic)
+CUST04199,0.28522462262154624,Low Risk,1,3,94.24,3,Month-to-month,Credit card (automatic)
+CUST06723,0.2851910473472988,Low Risk,0,14,94.24,4,Two year,Credit card (automatic)
+CUST05693,0.2851836969030967,Low Risk,0,59,94.24,1,One year,Mailed check
+CUST06180,0.2851777174675322,Low Risk,1,14,94.24,4,Two year,Credit card (automatic)
+CUST01234,0.2851667520419887,Low Risk,0,55,94.24,2,Two year,Credit card (automatic)
+CUST01105,0.2851546582686162,Low Risk,0,15,94.24,2,One year,Credit card (automatic)
+CUST00159,0.2851289733909133,Low Risk,1,59,94.24,2,Two year,Mailed check
+CUST00543,0.2851289733909133,Low Risk,0,59,94.24,2,Two year,Mailed check
+CUST05598,0.28508992860151267,Low Risk,0,12,94.24,1,Two year,Credit card (automatic)
+CUST00437,0.2850503399006226,Low Risk,0,13,94.24,5,One year,Bank transfer (automatic)
+CUST03631,0.2849643403049129,Low Risk,0,53,94.24,1,One year,Bank transfer (automatic)
+CUST05849,0.2849497194712853,Low Risk,1,58,94.24,2,Two year,Mailed check
+CUST03095,0.2849297940526968,Low Risk,0,36,94.24,2,Two year,Credit card (automatic)
+CUST02760,0.2849096421078324,Low Risk,1,53,94.24,2,One year,Bank transfer (automatic)
+CUST00553,0.2848950229624573,Low Risk,0,58,94.24,3,One year,Mailed check
+CUST03723,0.28488595568320185,Low Risk,0,15,94.24,5,Two year,Credit card (automatic)
+CUST04500,0.28485599744393536,Low Risk,1,11,94.24,2,One year,Bank transfer (automatic)
+CUST04784,0.2848024748415901,Low Risk,0,61,94.24,3,One year,Credit card (automatic)
+CUST05037,0.2848013117598182,Low Risk,0,11,94.24,3,One year,Credit card (automatic)
+CUST02267,0.28478619571651553,Low Risk,0,10,94.24,0,Two year,Bank transfer (automatic)
+CUST01871,0.2847840076276849,Low Risk,0,52,94.24,2,One year,Credit card (automatic)
+CUST05153,0.2847293302614528,Low Risk,0,52,94.24,3,One year,Bank transfer (automatic)
+CUST04812,0.2847293302614528,Low Risk,0,52,94.24,3,Two year,Credit card (automatic)
+CUST02107,0.2847079959347972,Low Risk,0,33,94.24,1,Two year,Credit card (automatic)
+CUST06978,0.28468173585700207,Low Risk,0,15,94.24,3,One year,Credit card (automatic)
+CUST00209,0.2846769028600852,Low Risk,0,15,94.24,5,Two year,Bank transfer (automatic)
+CUST00657,0.28467684679771954,Low Risk,0,10,94.24,2,Two year,Credit card (automatic)
+CUST02160,0.284669634557217,Low Risk,0,60,94.24,3,One year,Credit card (automatic)
+CUST03902,0.284669634557217,Low Risk,0,60,94.24,3,Two year,Bank transfer (automatic)
+CUST04837,0.2846604651636411,Low Risk,1,51,94.24,2,One year,Bank transfer (automatic)
+CUST05965,0.2846337332252231,Low Risk,0,22,94.24,4,One year,Credit card (automatic)
+CUST05858,0.284627070312292,Low Risk,0,15,94.24,4,One year,Credit card (automatic)
+CUST01355,0.2845717486804794,Low Risk,1,32,94.24,2,One year,Credit card (automatic)
+CUST00905,0.28456615507914995,Low Risk,0,16,94.24,0,Two year,Bank transfer (automatic)
+CUST01545,0.2845509275717013,Low Risk,0,31,94.24,1,One year,Credit card (automatic)
+CUST02075,0.2844634112966464,Low Risk,1,58,94.24,2,One year,Bank transfer (automatic)
+CUST06804,0.2844582248102215,Low Risk,0,10,94.24,6,Two year,Credit card (automatic)
+CUST06587,0.28440877100670636,Low Risk,0,58,94.24,3,Two year,Bank transfer (automatic)
+CUST03649,0.28440877100670636,Low Risk,0,58,94.24,3,Two year,Credit card (automatic)
+CUST05088,0.28439016466335343,Low Risk,0,57,94.24,1,One year,Bank transfer (automatic)
+CUST06057,0.284373378948656,Low Risk,0,8,94.24,1,One year,Bank transfer (automatic)
+CUST06419,0.2843728326056085,Low Risk,0,56,94.24,6,One year,Mailed check
+CUST05863,0.28436550844519454,Low Risk,0,49,94.24,3,Two year,Bank transfer (automatic)
+CUST03674,0.2843577302621653,Low Risk,1,55,94.24,3,One year,Electronic check
+CUST04975,0.28433553285197577,Low Risk,0,57,94.24,2,Two year,Bank transfer (automatic)
+CUST06194,0.28432664075100283,Low Risk,0,16,94.24,1,Two year,Credit card (automatic)
+CUST02461,0.28430310220610683,Low Risk,0,55,94.24,4,Two year,Electronic check
+CUST05148,0.28428938789870156,Low Risk,1,19,94.24,4,Two year,Credit card (automatic)
+CUST04939,0.28427710984267923,Low Risk,0,22,94.24,1,One year,Credit card (automatic)
+CUST05545,0.2842581553324964,Low Risk,0,28,94.24,3,Two year,Credit card (automatic)
+CUST05923,0.2842490116329937,Low Risk,0,48,94.24,3,Two year,Bank transfer (automatic)
+CUST02884,0.284233382113866,Low Risk,0,54,94.24,2,Two year,Mailed check
+CUST03237,0.28421739816587177,Low Risk,1,16,94.24,3,One year,Credit card (automatic)
+CUST06423,0.28421739816587177,Low Risk,0,16,94.24,3,One year,Bank transfer (automatic)
+CUST00317,0.2842049788656334,Low Risk,1,21,94.24,3,One year,Bank transfer (automatic)
+CUST06956,0.2841562854900539,Low Risk,0,25,94.24,3,One year,Bank transfer (automatic)
+CUST04037,0.2841548974361042,Low Risk,0,8,94.24,5,Two year,Bank transfer (automatic)
+CUST04716,0.2841548715956983,Low Risk,0,56,94.24,3,Two year,Bank transfer (automatic)
+CUST05147,0.2841548715956983,Low Risk,0,56,94.24,3,Two year,Bank transfer (automatic)
+CUST04156,0.2841503685030264,Low Risk,0,21,94.24,4,Two year,Bank transfer (automatic)
+CUST02767,0.28414878231000884,Low Risk,0,23,94.24,3,Two year,Bank transfer (automatic)
+CUST00995,0.28413559446035686,Low Risk,1,17,94.24,2,One year,Bank transfer (automatic)
+CUST02418,0.2841241611349623,Low Risk,0,54,94.24,4,One year,Mailed check
+CUST05845,0.2840544675082994,Low Risk,0,53,94.24,2,One year,Mailed check
+CUST00103,0.2840240756324086,Low Risk,0,46,94.24,3,Two year,Credit card (automatic)
+CUST02533,0.28401551140069736,Low Risk,1,6,94.24,1,One year,Credit card (automatic)
+CUST03874,0.28401551140069736,Low Risk,0,6,94.24,1,Two year,Bank transfer (automatic)
+CUST01673,0.283999874591928,Low Risk,1,53,94.24,3,One year,Mailed check
+CUST03039,0.2839761681397589,Low Risk,0,55,94.24,4,Two year,Bank transfer (automatic)
+CUST01453,0.28397056233872103,Low Risk,0,45,94.24,2,Two year,Bank transfer (automatic)
+CUST05613,0.28397056233872103,Low Risk,1,45,94.24,2,One year,Bank transfer (automatic)
+CUST01213,0.2839613649811898,Low Risk,0,6,94.24,1,Two year,Electronic check
+CUST01762,0.2839609230018297,Low Risk,1,6,94.24,2,One year,Credit card (automatic)
+CUST06747,0.2839301993602906,Low Risk,0,52,94.24,1,One year,Mailed check
+CUST04173,0.2838671562177181,Low Risk,0,18,94.24,2,One year,Credit card (automatic)
+CUST06336,0.2838614023003197,Low Risk,0,45,94.24,4,Two year,Bank transfer (automatic)
+CUST04312,0.2837887127767267,Low Risk,0,53,94.24,3,Two year,Bank transfer (automatic)
+CUST05292,0.28375648629463845,Low Risk,0,44,94.24,4,Two year,Bank transfer (automatic)
+CUST06321,0.28371577641425116,Low Risk,0,17,94.24,5,Two year,Credit card (automatic)
+CUST06356,0.2836579156978291,Low Risk,0,4,94.24,1,One year,Credit card (automatic)
+CUST06800,0.28365495038127586,Low Risk,0,43,94.24,4,One year,Credit card (automatic)
+CUST02798,0.28364229077743125,Low Risk,0,51,94.24,3,One year,Electronic check
+CUST06141,0.28364229077743125,Low Risk,0,51,94.24,3,One year,Mailed check
+CUST04056,0.2835556777903372,Low Risk,0,51,94.24,3,Two year,Bank transfer (automatic)
+CUST06278,0.2835488282499445,Low Risk,0,4,94.24,3,Two year,Credit card (automatic)
+CUST01771,0.2835488282499445,Low Risk,1,4,94.24,3,Two year,Bank transfer (automatic)
+CUST00178,0.2835473406690755,Low Risk,0,18,94.24,2,Two year,Credit card (automatic)
+CUST00861,0.28351749945319166,Low Risk,0,41,94.24,3,Two year,Bank transfer (automatic)
+CUST06501,0.28351749945319166,Low Risk,1,41,94.24,3,Two year,Bank transfer (automatic)
+CUST01493,0.28335455861321246,Low Risk,0,50,94.24,5,Two year,Electronic check
+CUST02919,0.28335455861321246,Low Risk,1,50,94.24,5,One year,Mailed check
+CUST03198,0.28334210653052805,Low Risk,0,39,94.24,3,One year,Credit card (automatic)
+CUST01207,0.28333382427719384,Low Risk,0,50,94.24,5,One year,Bank transfer (automatic)
+CUST01113,0.28333270600242383,Low Risk,0,49,94.24,3,One year,Bank transfer (automatic)
+CUST03419,0.2832875963511021,Low Risk,0,39,94.24,4,Two year,Credit card (automatic)
+CUST04818,0.2832611534061954,Low Risk,0,3,94.24,5,One year,Bank transfer (automatic)
+CUST05833,0.2832518116309687,Low Risk,0,21,94.24,3,One year,Credit card (automatic)
+CUST03460,0.28324041385610516,Low Risk,0,37,94.24,2,One year,Bank transfer (automatic)
+CUST03325,0.28317597833972763,Low Risk,0,49,94.24,5,Two year,Mailed check
+CUST06575,0.28316106765994203,Low Risk,0,35,94.24,1,One year,Credit card (automatic)
+CUST02606,0.28316106765994203,Low Risk,0,35,94.24,1,One year,Bank transfer (automatic)
+CUST07022,0.28315748169403143,Low Risk,0,19,94.24,4,One year,Bank transfer (automatic)
+CUST02490,0.28313709506477003,Low Risk,0,2,94.24,4,Two year,Bank transfer (automatic)
+CUST02321,0.2831064253164647,Low Risk,0,48,94.24,3,One year,Mailed check
+CUST01162,0.2830826087468184,Low Risk,0,2,94.24,5,One year,Bank transfer (automatic)
+CUST02587,0.283074341146101,Low Risk,0,46,94.24,2,One year,Credit card (automatic)
+CUST01892,0.283074341146101,Low Risk,1,46,94.24,2,One year,Bank transfer (automatic)
+CUST06570,0.28305351289441877,Low Risk,0,33,94.24,1,One year,Credit card (automatic)
+CUST05494,0.28304924069316917,Low Risk,0,34,94.24,2,One year,Credit card (automatic)
+CUST00363,0.2830368826312782,Low Risk,0,47,94.24,1,One year,Electronic check
+CUST05673,0.2830368826312782,Low Risk,1,47,94.24,1,Two year,Electronic check
+CUST03790,0.2830071249682508,Low Risk,0,25,94.24,1,Two year,Credit card (automatic)
+CUST04341,0.28299903631114776,Low Risk,0,33,94.24,2,Two year,Credit card (automatic)
+CUST00190,0.2829750343824393,Low Risk,0,20,94.24,3,One year,Bank transfer (automatic)
+CUST03780,0.2829566109142613,Low Risk,1,32,94.24,2,Two year,Credit card (automatic)
+CUST04010,0.2829445660746953,Low Risk,0,33,94.24,3,One year,Bank transfer (automatic)
+CUST02521,0.28294354079842565,Low Risk,0,0,94.24,1,One year,Credit card (automatic)
+CUST05319,0.2829279396865099,Low Risk,1,47,94.24,3,Two year,Mailed check
+CUST05457,0.28292269111342316,Low Risk,0,31,94.24,2,Two year,Credit card (automatic)
+CUST04334,0.28289025437988785,Low Risk,0,27,94.24,2,Two year,Credit card (automatic)
+CUST01980,0.28288868557326047,Low Risk,0,35,94.24,6,One year,Credit card (automatic)
+CUST00683,0.28288074321292733,Low Risk,0,28,94.24,2,One year,Bank transfer (automatic)
+CUST06003,0.2828584235458632,Low Risk,0,46,94.24,1,Two year,Electronic check
+CUST02979,0.2828464776606729,Low Risk,0,43,94.24,1,One year,Credit card (automatic)
+CUST00930,0.2828346196083966,Low Risk,0,0,94.24,3,One year,Bank transfer (automatic)
+CUST03459,0.2827892783412305,Low Risk,0,25,94.24,5,One year,Credit card (automatic)
+CUST05213,0.2827813456132659,Low Risk,0,27,94.24,4,One year,Credit card (automatic)
+CUST00759,0.2827801685370454,Low Risk,0,0,94.24,4,Two year,Credit card (automatic)
+CUST02466,0.28277183666409716,Low Risk,0,28,94.24,4,One year,Credit card (automatic)
+CUST04626,0.2827375791026096,Low Risk,0,43,94.24,3,One year,Bank transfer (automatic)
+CUST05634,0.2827375791026096,Low Risk,0,43,94.24,3,Two year,Bank transfer (automatic)
+CUST05191,0.2827328505932765,Low Risk,0,41,94.24,0,Two year,Credit card (automatic)
+CUST06179,0.282719012286094,Low Risk,0,44,94.24,5,One year,Bank transfer (automatic)
+CUST05002,0.28269508105552144,Low Risk,0,46,94.24,4,One year,Electronic check
+CUST01847,0.28269508105552144,Low Risk,0,46,94.24,4,Two year,Mailed check
+CUST05462,0.2826621616469252,Low Risk,0,72,94.24,4,One year,Mailed check
+CUST06637,0.2826406462607542,Low Risk,0,46,94.24,5,One year,Mailed check
+CUST01282,0.2826406462607542,Low Risk,0,46,94.24,5,One year,Electronic check
+CUST02964,0.28262397854219784,Low Risk,0,41,94.24,2,One year,Bank transfer (automatic)
+CUST02838,0.28256955204525913,Low Risk,0,41,94.24,3,One year,Credit card (automatic)
+CUST05491,0.282550085578479,Low Risk,0,8,94.24,5,Two year,Mailed check
+CUST00536,0.28249246121033983,Low Risk,0,40,94.24,3,One year,Credit card (automatic)
+CUST04634,0.2824723340077317,Low Risk,0,23,94.24,3,Two year,Bank transfer (automatic)
+CUST03932,0.2824723340077317,Low Risk,1,23,94.24,3,One year,Credit card (automatic)
+CUST03536,0.28246071811282725,Low Risk,0,41,94.24,5,One year,Bank transfer (automatic)
+CUST01522,0.2824472976543747,Low Risk,1,44,94.24,2,One year,Mailed check
+CUST00993,0.2824472976543747,Low Risk,0,44,94.24,2,Two year,Electronic check
+CUST01499,0.2824020033514675,Low Risk,0,37,94.24,1,One year,Credit card (automatic)
+CUST05604,0.28236019161600034,Low Risk,0,24,94.24,3,One year,Bank transfer (automatic)
+CUST04560,0.2823247985830688,Low Risk,1,25,94.24,2,Two year,Bank transfer (automatic)
+CUST06706,0.2823247985830688,Low Risk,0,25,94.24,2,Two year,Credit card (automatic)
+CUST05166,0.2822932833394103,Low Risk,0,36,94.24,2,One year,Bank transfer (automatic)
+CUST00184,0.2822840991257191,Low Risk,1,44,94.24,5,One year,Mailed check
+CUST03391,0.28222461744387817,Low Risk,0,4,94.24,3,Month-to-month,Electronic check
+CUST01556,0.28221467891899327,Low Risk,0,43,94.24,3,Two year,Mailed check
+CUST05814,0.2822058977406129,Low Risk,0,34,94.24,2,Two year,Credit card (automatic)
+CUST03458,0.282202671919637,Low Risk,0,27,94.24,2,Two year,Bank transfer (automatic)
+CUST02292,0.2821785361568904,Low Risk,0,69,94.24,4,Two year,Electronic check
+CUST06701,0.28217023760373816,Low Risk,1,4,94.24,4,Month-to-month,Mailed check
+CUST00030,0.28216030024104904,Low Risk,0,43,94.24,4,One year,Electronic check
+CUST03721,0.28216030024104904,Low Risk,0,43,94.24,4,One year,Electronic check
+CUST06476,0.2821482946458436,Low Risk,0,27,94.24,3,Two year,Credit card (automatic)
+CUST03324,0.2821461094190696,Low Risk,0,26,94.24,4,One year,Bank transfer (automatic)
+CUST00542,0.28213709412404875,Low Risk,0,35,94.24,4,Two year,Bank transfer (automatic)
+CUST02247,0.2821197026766579,Low Risk,0,33,94.24,3,Two year,Bank transfer (automatic)
+CUST03829,0.2820967551630449,Low Risk,0,32,94.24,3,One year,Credit card (automatic)
+CUST04964,0.2820365343144263,Low Risk,0,42,94.24,3,One year,Mailed check
+CUST05622,0.28202653462761534,Low Risk,0,30,94.24,4,Two year,Bank transfer (automatic)
+CUST05528,0.28198494459823853,Low Risk,0,70,94.24,4,Month-to-month,Credit card (automatic)
+CUST01822,0.2819721779609787,Low Risk,0,30,94.24,5,Two year,Credit card (automatic)
+CUST02060,0.28196491693186904,Low Risk,0,9,94.24,1,One year,Mailed check
+CUST02662,0.28191280135579444,Low Risk,1,41,94.24,2,Two year,Mailed check
+CUST01869,0.281861225387278,Low Risk,0,69,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03867,0.28178910137507934,Low Risk,0,40,94.24,1,One year,Mailed check
+CUST04701,0.28168045001794023,Low Risk,0,40,94.24,3,One year,Mailed check
+CUST04152,0.2814509800588532,Low Risk,0,67,94.24,4,Month-to-month,Credit card (automatic)
+CUST05511,0.28144821512509544,Low Risk,1,39,94.24,4,Two year,Electronic check
+CUST01880,0.28139320365147813,Low Risk,0,71,94.24,3,Two year,Electronic check
+CUST01593,0.28132740333021905,Low Risk,0,66,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00623,0.28132463913515876,Low Risk,1,38,94.24,3,Two year,Mailed check
+CUST05529,0.281255362417487,Low Risk,1,37,94.24,1,Two year,Electronic check
+CUST00640,0.2811468362974395,Low Risk,0,37,94.24,3,Two year,Electronic check
+CUST01553,0.28107758623979373,Low Risk,0,36,94.24,1,Two year,Electronic check
+CUST03943,0.28107758623979373,Low Risk,0,36,94.24,1,Two year,Mailed check
+CUST04159,0.2810233408818059,Low Risk,1,36,94.24,2,One year,Mailed check
+CUST02918,0.2810166752473212,Low Risk,0,62,94.24,5,One year,Mailed check
+CUST01902,0.2809691019012339,Low Risk,0,36,94.24,3,Two year,Electronic check
+CUST03363,0.280967815920382,Low Risk,0,3,94.24,2,Month-to-month,Electronic check
+CUST00185,0.28091486929890735,Low Risk,0,36,94.24,4,One year,Electronic check
+CUST06783,0.28091358346929984,Low Risk,0,3,94.24,3,Month-to-month,Mailed check
+CUST05760,0.28086081203357655,Low Risk,0,8,94.24,1,Two year,Electronic check
+CUST01082,0.28085935739731166,Low Risk,1,3,94.24,4,Month-to-month,Electronic check
+CUST01504,0.28084565405530854,Low Risk,0,35,94.24,2,Two year,Electronic check
+CUST03489,0.28079143597574746,Low Risk,1,35,94.24,3,Two year,Electronic check
+CUST02365,0.28073722427714537,Low Risk,0,35,94.24,4,Two year,Mailed check
+CUST05224,0.28073722427714537,Low Risk,0,35,94.24,4,One year,Mailed check
+CUST01948,0.2807222392722848,Low Risk,0,34,94.24,1,One year,Electronic check
+CUST03758,0.2805626721769837,Low Risk,0,10,94.24,1,One year,Mailed check
+CUST01724,0.28050848741910905,Low Risk,0,10,94.24,2,One year,Mailed check
+CUST01407,0.28049048590428965,Low Risk,0,33,94.24,2,Two year,Mailed check
+CUST04507,0.28041747123863203,Low Risk,0,2,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02783,0.28036716634940806,Low Risk,0,32,94.24,1,One year,Mailed check
+CUST03653,0.28032797631146483,Low Risk,1,33,94.24,5,One year,Mailed check
+CUST05302,0.28025884931452366,Low Risk,0,32,94.24,3,Two year,Mailed check
+CUST06380,0.28025498747142225,Low Risk,0,2,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST06831,0.28015055783586806,Low Risk,0,32,94.24,5,One year,Mailed check
+CUST05834,0.28013559194937787,Low Risk,0,31,94.24,2,One year,Mailed check
+CUST03436,0.28011836216745845,Low Risk,0,62,94.24,1,Two year,Electronic check
+CUST04592,0.2800544698652661,Low Risk,1,55,94.24,3,Two year,Electronic check
+CUST03097,0.280012367703062,Low Risk,1,30,94.24,1,Two year,Electronic check
+CUST06708,0.280012367703062,Low Risk,1,30,94.24,1,Two year,Electronic check
+CUST04576,0.2799420279957333,Low Risk,0,10,94.24,3,One year,Electronic check
+CUST03032,0.2798879164704953,Low Risk,1,10,94.24,4,One year,Electronic check
+CUST02590,0.2798879164704953,Low Risk,0,10,94.24,4,One year,Electronic check
+CUST03567,0.27975719725424103,Low Risk,0,53,94.24,3,Two year,Mailed check
+CUST00311,0.27972687993392026,Low Risk,0,29,94.24,3,One year,Electronic check
+CUST06178,0.2797254903677963,Low Risk,0,9,94.24,3,One year,Mailed check
+CUST05497,0.27961838378548104,Low Risk,0,59,94.24,2,Two year,Mailed check
+CUST01471,0.27956411633617,Low Risk,1,7,94.24,4,Month-to-month,Credit card (automatic)
+CUST06144,0.27947180572285,Low Risk,1,58,94.24,2,One year,Electronic check
+CUST04933,0.27942938034801296,Low Risk,0,55,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06254,0.2794266275511144,Low Risk,0,27,94.24,2,Two year,Electronic check
+CUST04446,0.2793725769974853,Low Risk,0,27,94.24,3,Two year,Electronic check
+CUST04603,0.2793725769974853,Low Risk,0,27,94.24,3,Two year,Mailed check
+CUST00712,0.2793200669003847,Low Risk,0,50,94.24,3,Two year,Electronic check
+CUST04844,0.2792495581837666,Low Risk,0,26,94.24,2,Two year,Electronic check
+CUST04854,0.2790874886792617,Low Risk,0,26,94.24,5,One year,Mailed check
+CUST02024,0.2790714475059517,Low Risk,0,9,94.24,2,One year,Electronic check
+CUST06673,0.2790352877692422,Low Risk,0,48,94.24,3,One year,Electronic check
+CUST02900,0.27902465646744645,Low Risk,1,71,94.24,4,Two year,Mailed check
+CUST05463,0.27902465646744645,Low Risk,0,71,94.24,4,Two year,Mailed check
+CUST01327,0.27902465646744645,Low Risk,1,71,94.24,4,One year,Electronic check
+CUST00698,0.27897154060671864,Low Risk,1,11,94.24,3,Two year,Electronic check
+CUST00788,0.27896454680467714,Low Risk,1,25,94.24,4,Two year,Mailed check
+CUST04418,0.2789308948357476,Low Risk,0,55,94.24,4,Two year,Electronic check
+CUST00202,0.27889837531774797,Low Risk,0,52,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03998,0.27887733758161215,Low Risk,1,70,94.24,4,Two year,Electronic check
+CUST03749,0.27887733758161215,Low Risk,1,70,94.24,4,Two year,Mailed check
+CUST00390,0.27885656167703915,Low Risk,1,25,94.24,6,Two year,Mailed check
+CUST05659,0.278841638140074,Low Risk,0,24,94.24,3,Two year,Electronic check
+CUST03914,0.278841638140074,Low Risk,0,24,94.24,3,One year,Mailed check
+CUST04256,0.2787876569631743,Low Risk,0,24,94.24,4,One year,Mailed check
+CUST00949,0.2787848861499095,Low Risk,1,69,94.24,3,Two year,Mailed check
+CUST05689,0.2787693731603629,Low Risk,0,70,94.24,6,Two year,Electronic check
+CUST01001,0.27873512105446374,Low Risk,0,54,94.24,5,One year,Electronic check
+CUST03179,0.27869333550830666,Low Risk,0,68,94.24,2,One year,Electronic check
+CUST03463,0.27869333550830666,Low Risk,0,68,94.24,2,One year,Mailed check
+CUST04321,0.27867368850092433,Low Risk,1,45,94.24,2,Two year,Mailed check
+CUST05743,0.27866479611378175,Low Risk,0,23,94.24,3,Two year,Mailed check
+CUST04983,0.2786393719485244,Low Risk,0,68,94.24,3,One year,Electronic check
+CUST06187,0.27861083594559655,Low Risk,0,23,94.24,4,One year,Electronic check
+CUST00422,0.27858541480209337,Low Risk,1,68,94.24,4,One year,Electronic check
+CUST01400,0.2785487712408086,Low Risk,0,67,94.24,2,One year,Electronic check
+CUST00790,0.2785487712408086,Low Risk,0,67,94.24,2,One year,Mailed check
+CUST01046,0.27854471594806823,Low Risk,0,50,94.24,2,Month-to-month,Credit card (automatic)
+CUST03221,0.27854196849748447,Low Risk,0,22,94.24,2,Two year,Mailed check
+CUST03058,0.2785165003621091,Low Risk,1,10,94.24,1,One year,Mailed check
+CUST05298,0.27849482486542143,Low Risk,0,67,94.24,3,One year,Electronic check
+CUST00217,0.2784591502555322,Low Risk,0,66,94.24,1,One year,Mailed check
+CUST01850,0.2783873924071485,Low Risk,0,12,94.24,3,Two year,Electronic check
+CUST00528,0.2783873924071485,Low Risk,0,12,94.24,3,One year,Mailed check
+CUST03469,0.2783869513619315,Low Risk,0,67,94.24,5,One year,Electronic check
+CUST04936,0.2783679895431273,Low Risk,0,49,94.24,2,Month-to-month,Credit card (automatic)
+CUST01081,0.2783334652281607,Low Risk,0,12,94.24,4,One year,Mailed check
+CUST03467,0.27831131861993214,Low Risk,0,21,94.24,3,One year,Electronic check
+CUST00107,0.2782634987194573,Low Risk,0,49,94.24,1,One year,Electronic check
+CUST06509,0.2782330520936617,Low Risk,1,12,94.24,2,Two year,Mailed check
+CUST00830,0.2782034887889808,Low Risk,0,21,94.24,5,Two year,Mailed check
+CUST02724,0.27818858671995506,Low Risk,1,20,94.24,2,One year,Mailed check
+CUST04437,0.27818858671995506,Low Risk,1,20,94.24,2,One year,Mailed check
+CUST03713,0.2781772949726782,Low Risk,0,72,94.24,1,One year,Electronic check
+CUST06075,0.27813468320860085,Low Risk,1,20,94.24,3,Two year,Electronic check
+CUST03348,0.27813468320860085,Low Risk,0,20,94.24,3,One year,Electronic check
+CUST00581,0.27803354603535024,Low Risk,1,71,94.24,1,One year,Mailed check
+CUST02072,0.27794596655827924,Low Risk,0,46,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST06400,0.27793010624014275,Low Risk,0,41,94.24,6,One year,Electronic check
+CUST04292,0.2779042406774652,Low Risk,0,19,94.24,4,Two year,Mailed check
+CUST07033,0.27789094881126886,Low Risk,0,2,94.24,3,Month-to-month,Mailed check
+CUST05986,0.2778719101879188,Low Risk,0,71,94.24,4,Two year,Electronic check
+CUST04265,0.27775179304495967,Low Risk,0,72,94.24,3,Month-to-month,Credit card (automatic)
+CUST00186,0.2777486060706203,Low Risk,0,8,94.24,2,Month-to-month,Credit card (automatic)
+CUST03729,0.2777291826568143,Low Risk,1,70,94.24,4,Two year,Electronic check
+CUST03538,0.2777291826568143,Low Risk,0,70,94.24,4,Two year,Mailed check
+CUST03866,0.2777291826568143,Low Risk,0,70,94.24,4,One year,Mailed check
+CUST02685,0.27770907964615515,Low Risk,0,12,94.24,4,Two year,Mailed check
+CUST01748,0.27767391563178273,Low Risk,0,18,94.24,5,One year,Electronic check
+CUST04979,0.2776502933812841,Low Risk,1,61,94.24,3,Two year,Mailed check
+CUST06962,0.2776339100548022,Low Risk,0,13,94.24,1,One year,Electronic check
+CUST00051,0.2776157521570581,Low Risk,0,13,94.24,3,One year,Electronic check
+CUST03497,0.277607932418726,Low Risk,0,45,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02602,0.2776013933956704,Low Risk,1,12,94.24,6,One year,Electronic check
+CUST00686,0.27754075171158804,Low Risk,0,36,94.24,2,Two year,Electronic check
+CUST00532,0.27754075171158804,Low Risk,1,36,94.24,2,Two year,Mailed check
+CUST01289,0.2775364761478033,Low Risk,0,16,94.24,1,Two year,Mailed check
+CUST06596,0.27753324041101274,Low Risk,0,8,94.24,6,Month-to-month,Bank transfer (automatic)
+CUST06379,0.2775080881917263,Low Risk,0,13,94.24,5,Two year,Mailed check
+CUST01604,0.27748692547161335,Low Risk,0,36,94.24,3,One year,Mailed check
+CUST00595,0.27748539143913736,Low Risk,1,44,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01503,0.2774291093336966,Low Risk,0,35,94.24,2,Two year,Electronic check
+CUST02670,0.27741483493926866,Low Risk,0,67,94.24,2,One year,Mailed check
+CUST03687,0.27737501825201977,Low Risk,0,16,94.24,4,One year,Electronic check
+CUST04610,0.27736102374433486,Low Risk,0,67,94.24,3,Two year,Electronic check
+CUST03685,0.27736102374433486,Low Risk,1,67,94.24,3,Two year,Mailed check
+CUST02269,0.27732148996381456,Low Risk,1,35,94.24,4,Two year,Electronic check
+CUST05777,0.27732148996381456,Low Risk,0,35,94.24,4,Two year,Mailed check
+CUST01524,0.277217768693691,Low Risk,0,42,94.24,4,One year,Electronic check
+CUST01677,0.2772173191236663,Low Risk,1,33,94.24,2,One year,Mailed check
+CUST00004,0.2772135971052387,Low Risk,0,34,94.24,4,Two year,Mailed check
+CUST05717,0.2772135971052387,Low Risk,0,34,94.24,4,One year,Electronic check
+CUST04824,0.27716878226430086,Low Risk,0,66,94.24,4,One year,Mailed check
+CUST00957,0.2771665818291919,Low Risk,1,57,94.24,2,One year,Mailed check
+CUST03595,0.2771314792354049,Low Risk,0,14,94.24,1,Two year,Electronic check
+CUST01993,0.27709502567531635,Low Risk,0,40,94.24,2,Two year,Mailed check
+CUST05104,0.2770559756961933,Low Risk,1,33,94.24,5,Two year,Electronic check
+CUST04905,0.27703841012845615,Low Risk,0,14,94.24,2,Two year,Mailed check
+CUST00973,0.2770253136256639,Low Risk,0,14,94.24,2,Two year,Mailed check
+CUST05192,0.27702321366573224,Low Risk,0,31,94.24,2,One year,Electronic check
+CUST03676,0.276982202427399,Low Risk,0,56,94.24,3,Two year,Electronic check
+CUST02142,0.27697776815830094,Low Risk,1,65,94.24,5,One year,Electronic check
+CUST05182,0.27697154902618887,Low Risk,0,14,94.24,3,Two year,Mailed check
+CUST01777,0.27695392291566573,Low Risk,0,13,94.24,2,One year,Electronic check
+CUST00059,0.2769492799997911,Low Risk,0,64,94.24,3,One year,Electronic check
+CUST02552,0.27689514084017675,Low Risk,0,15,94.24,2,One year,Mailed check
+CUST01286,0.2768682954749071,Low Risk,0,63,94.24,2,Two year,Mailed check
+CUST04353,0.27685362685717674,Low Risk,0,66,94.24,2,Month-to-month,Credit card (automatic)
+CUST04715,0.2768469451744301,Low Risk,0,9,94.24,4,Month-to-month,Credit card (automatic)
+CUST04508,0.27684139183043566,Low Risk,0,15,94.24,3,Two year,Electronic check
+CUST03618,0.27683155999644105,Low Risk,0,12,94.24,1,Two year,Mailed check
+CUST01280,0.27682756425707356,Low Risk,0,37,94.24,1,One year,Electronic check
+CUST03891,0.276799525583989,Low Risk,0,55,94.24,4,One year,Electronic check
+CUST02056,0.2767886389509624,Low Risk,0,62,94.24,1,One year,Mailed check
+CUST06838,0.2767778186045661,Low Risk,0,12,94.24,2,Two year,Mailed check
+CUST05770,0.27676081032791255,Low Risk,1,63,94.24,4,Two year,Mailed check
+CUST02476,0.2767386634480839,Low Risk,0,15,94.24,3,One year,Electronic check
+CUST03225,0.2767386634480839,Low Risk,0,15,94.24,3,Two year,Mailed check
+CUST06901,0.2767161026465949,Low Risk,0,38,94.24,5,One year,Mailed check
+CUST06424,0.2766849331904045,Low Risk,1,15,94.24,4,Two year,Electronic check
+CUST03800,0.27668117289601596,Low Risk,1,62,94.24,3,One year,Mailed check
+CUST01044,0.27667236035306725,Low Risk,0,54,94.24,4,Two year,Mailed check
+CUST03304,0.2766703551435619,Low Risk,0,12,94.24,4,Two year,Electronic check
+CUST07034,0.27665550372073305,Low Risk,0,11,94.24,1,Two year,Electronic check
+CUST06970,0.2766205464148851,Low Risk,0,36,94.24,3,Two year,Mailed check
+CUST00537,0.2766119357385509,Low Risk,0,28,94.24,5,Two year,Electronic check
+CUST04163,0.2766017834341639,Low Risk,0,11,94.24,2,One year,Mailed check
+CUST05913,0.27658698936992177,Low Risk,0,15,94.24,2,One year,Mailed check
+CUST01111,0.27657984775428934,Low Risk,0,60,94.24,0,Two year,Electronic check
+CUST04799,0.27657754945817165,Low Risk,0,19,94.24,1,One year,Mailed check
+CUST04934,0.27656683032091406,Low Risk,1,36,94.24,4,Two year,Mailed check
+CUST04912,0.2765492120005099,Low Risk,0,61,94.24,3,Two year,Mailed check
+CUST02218,0.27653336870666567,Low Risk,1,26,94.24,4,One year,Mailed check
+CUST05366,0.27651935091296376,Low Risk,0,16,94.24,3,One year,Mailed check
+CUST00451,0.2764795166047313,Low Risk,0,10,94.24,1,One year,Mailed check
+CUST03243,0.27647736766675696,Low Risk,0,52,94.24,3,One year,Mailed check
+CUST05336,0.27647736766675696,Low Risk,0,52,94.24,3,Two year,Mailed check
+CUST01160,0.2764724317746693,Low Risk,1,60,94.24,2,One year,Electronic check
+CUST01725,0.27647156918580407,Low Risk,1,35,94.24,4,Two year,Mailed check
+CUST00991,0.2764406612367803,Low Risk,0,11,94.24,5,Two year,Electronic check
+CUST04684,0.27643061954757303,Low Risk,0,15,94.24,3,One year,Mailed check
+CUST05150,0.27640363352075786,Low Risk,1,23,94.24,4,One year,Electronic check
+CUST02648,0.2763721247046259,Low Risk,0,10,94.24,3,One year,Electronic check
+CUST04181,0.2763721247046259,Low Risk,0,10,94.24,3,One year,Mailed check
+CUST06610,0.2763225887639826,Low Risk,1,32,94.24,2,Two year,Mailed check
+CUST00737,0.27625265412412825,Low Risk,0,37,94.24,2,Month-to-month,Credit card (automatic)
+CUST00478,0.2762499206247669,Low Risk,0,9,94.24,2,Two year,Electronic check
+CUST05765,0.27610885072110564,Low Risk,0,58,94.24,4,One year,Mailed check
+CUST01364,0.2761024146880329,Low Risk,0,16,94.24,4,One year,Mailed check
+CUST05823,0.2761024146880329,Low Risk,0,16,94.24,4,Two year,Electronic check
+CUST06522,0.2760984255883067,Low Risk,0,18,94.24,5,One year,Mailed check
+CUST01764,0.276090577870567,Low Risk,1,57,94.24,2,Two year,Electronic check
+CUST05779,0.2760818441467718,Low Risk,0,16,94.24,1,One year,Mailed check
+CUST02963,0.2760663636235318,Low Risk,0,49,94.24,4,One year,Mailed check
+CUST05344,0.27603692541863745,Low Risk,1,57,94.24,3,Two year,Mailed check
+CUST02192,0.27602180621029115,Low Risk,0,25,94.24,1,Two year,Mailed check
+CUST02857,0.2760204171844284,Low Risk,0,56,94.24,1,Two year,Electronic check
+CUST04147,0.2760204171844284,Low Risk,1,56,94.24,1,Two year,Mailed check
+CUST00071,0.27601900232493454,Low Risk,0,20,94.24,3,Two year,Mailed check
+CUST02500,0.27597454779450453,Low Risk,0,16,94.24,3,One year,Mailed check
+CUST06922,0.2759259108965064,Low Risk,0,22,94.24,3,One year,Mailed check
+CUST04878,0.2759209092963338,Low Risk,0,16,94.24,4,One year,Mailed check
+CUST06547,0.2758707127855822,Low Risk,0,60,94.24,3,Month-to-month,Credit card (automatic)
+CUST06490,0.275858090147434,Low Risk,1,20,94.24,6,One year,Mailed check
+CUST05390,0.2758405732694364,Low Risk,1,17,94.24,3,One year,Electronic check
+CUST05005,0.2758382938676597,Low Risk,0,46,94.24,2,One year,Mailed check
+CUST07025,0.2757910825017178,Low Risk,0,7,94.24,4,One year,Electronic check
+CUST06526,0.2757321130175565,Low Risk,0,45,94.24,2,Two year,Mailed check
+CUST04807,0.27572537591677526,Low Risk,0,34,94.24,2,Month-to-month,Credit card (automatic)
+CUST06916,0.27566903746757154,Low Risk,0,6,94.24,3,Two year,Mailed check
+CUST00439,0.2756249008346708,Low Risk,1,45,94.24,4,Two year,Mailed check
+CUST01905,0.2756154357445925,Low Risk,1,6,94.24,4,Two year,Electronic check
+CUST05239,0.27558289009952885,Low Risk,0,43,94.24,1,Two year,Mailed check
+CUST05103,0.27558289009952885,Low Risk,0,43,94.24,1,Two year,Electronic check
+CUST04235,0.27556671909907543,Low Risk,0,6,94.24,3,Month-to-month,Electronic check
+CUST06286,0.27555350891148117,Low Risk,0,53,94.24,3,One year,Mailed check
+CUST00146,0.27554702589260743,Low Risk,0,5,94.24,2,Two year,Electronic check
+CUST03048,0.2755354606066523,Low Risk,1,17,94.24,4,One year,Electronic check
+CUST02700,0.2754757138699104,Low Risk,0,43,94.24,3,One year,Electronic check
+CUST03157,0.2754757138699104,Low Risk,1,43,94.24,3,Two year,Electronic check
+CUST05137,0.27540681183989224,Low Risk,0,10,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST00010,0.27534070294663215,Low Risk,1,41,94.24,2,Two year,Mailed check
+CUST02578,0.27534070294663215,Low Risk,0,41,94.24,2,One year,Mailed check
+CUST06011,0.27534070294663215,Low Risk,0,41,94.24,2,Two year,Electronic check
+CUST05149,0.2753179096122341,Low Risk,0,4,94.24,3,One year,Mailed check
+CUST04655,0.27530593513529555,Low Risk,1,40,94.24,1,Two year,Mailed check
+CUST03796,0.2752871408021214,Low Risk,0,41,94.24,3,One year,Mailed check
+CUST00206,0.27527240099642336,Low Risk,0,42,94.24,5,One year,Mailed check
+CUST03195,0.2752628894008428,Low Risk,1,18,94.24,3,Two year,Mailed check
+CUST04899,0.2752628894008428,Low Risk,1,18,94.24,3,One year,Mailed check
+CUST05917,0.27525237718519385,Low Risk,1,40,94.24,2,Two year,Mailed check
+CUST02276,0.27525205889336934,Low Risk,1,5,94.24,0,Month-to-month,Credit card (automatic)
+CUST05703,0.2752335851196492,Low Risk,0,41,94.24,4,One year,Electronic check
+CUST05720,0.2751987214381253,Low Risk,0,31,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01636,0.2751959944020083,Low Risk,0,3,94.24,2,One year,Mailed check
+CUST00180,0.2751959944020083,Low Risk,0,3,94.24,2,One year,Electronic check
+CUST06551,0.27516842573789796,Low Risk,0,39,94.24,2,One year,Electronic check
+CUST06718,0.2751056520314751,Low Risk,1,49,94.24,3,Two year,Electronic check
+CUST05577,0.2751056520314751,Low Risk,1,49,94.24,3,One year,Mailed check
+CUST03505,0.27508918120975817,Low Risk,0,38,94.24,2,One year,Electronic check
+CUST02786,0.27506134949332106,Low Risk,0,39,94.24,4,Two year,Mailed check
+CUST04723,0.27504060916046524,Low Risk,0,19,94.24,2,Two year,Electronic check
+CUST06506,0.27503789187954875,Low Risk,0,5,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST02347,0.27501501137260326,Low Risk,1,37,94.24,2,Two year,Electronic check
+CUST04761,0.27498436628812767,Low Risk,0,5,94.24,5,Month-to-month,Credit card (automatic)
+CUST00129,0.2749614885451462,Low Risk,0,37,94.24,3,One year,Mailed check
+CUST00915,0.2749542991097025,Low Risk,0,39,94.24,6,One year,Mailed check
+CUST00936,0.2749512761580725,Low Risk,0,47,94.24,2,Two year,Electronic check
+CUST01782,0.27494632393929513,Low Risk,0,36,94.24,2,Two year,Mailed check
+CUST04552,0.27490797218434154,Low Risk,1,37,94.24,4,One year,Electronic check
+CUST05177,0.27490516077022054,Low Risk,0,22,94.24,3,One year,Electronic check
+CUST01554,0.27490516077022054,Low Risk,1,22,94.24,3,Two year,Electronic check
+CUST04782,0.27489280941096467,Low Risk,1,36,94.24,3,Two year,Electronic check
+CUST00524,0.27489280941096467,Low Risk,1,36,94.24,3,Two year,Mailed check
+CUST04996,0.2748412614536535,Low Risk,0,24,94.24,1,One year,Electronic check
+CUST03152,0.2747981481312317,Low Risk,1,22,94.24,5,Two year,Electronic check
+CUST06285,0.27479173813748253,Low Risk,1,1,94.24,3,Two year,Electronic check
+CUST06125,0.27479173813748253,Low Risk,0,1,94.24,3,Two year,Mailed check
+CUST03921,0.27478590000817366,Low Risk,0,25,94.24,1,One year,Electronic check
+CUST05646,0.2747553420874809,Low Risk,0,23,94.24,4,Two year,Electronic check
+CUST03006,0.27474491233128534,Low Risk,1,46,94.24,4,Two year,Mailed check
+CUST04735,0.27473629108396375,Low Risk,0,32,94.24,2,One year,Electronic check
+CUST06042,0.2747018506477533,Low Risk,0,23,94.24,5,Two year,Electronic check
+CUST03288,0.2746816144645778,Low Risk,0,43,94.24,0,One year,Mailed check
+CUST04516,0.2746789162074202,Low Risk,0,25,94.24,3,One year,Electronic check
+CUST02929,0.274678826654648,Low Risk,1,30,94.24,2,Two year,Electronic check
+CUST05333,0.27462543401262557,Low Risk,1,25,94.24,4,Two year,Mailed check
+CUST04343,0.2746083030682415,Low Risk,0,28,94.24,3,One year,Electronic check
+CUST02933,0.27457186875812134,Low Risk,1,30,94.24,4,Two year,Mailed check
+CUST02274,0.27450136224018895,Low Risk,0,28,94.24,5,One year,Mailed check
+CUST00800,0.27446772321072854,Low Risk,0,43,94.24,4,Two year,Electronic check
+CUST01335,0.274409624014605,Low Risk,0,41,94.24,2,One year,Electronic check
+CUST04471,0.2743422178932123,Low Risk,1,22,94.24,4,Two year,Mailed check
+CUST06617,0.2743339081150067,Low Risk,1,40,94.24,2,Two year,Mailed check
+CUST04204,0.2742887764648013,Low Risk,0,22,94.24,5,One year,Electronic check
+CUST00216,0.27420399867843204,Low Risk,1,24,94.24,2,Two year,Mailed check
+CUST04545,0.27420399867843204,Low Risk,0,24,94.24,2,One year,Mailed check
+CUST05594,0.27419780191684345,Low Risk,0,38,94.24,2,One year,Mailed check
+CUST05972,0.2741916345409837,Low Risk,0,37,94.24,1,One year,Electronic check
+CUST00948,0.27415631693378406,Low Risk,0,39,94.24,4,Two year,Mailed check
+CUST03253,0.2741382848091742,Low Risk,0,36,94.24,1,One year,Mailed check
+CUST03482,0.27404374408641535,Low Risk,0,24,94.24,5,One year,Mailed check
+CUST05839,0.2740314578736741,Low Risk,1,36,94.24,3,Two year,Electronic check
+CUST06845,0.274008995471013,Low Risk,1,25,94.24,4,Two year,Electronic check
+CUST01172,0.2739958855833076,Low Risk,0,27,94.24,2,One year,Electronic check
+CUST02626,0.27398488516964314,Low Risk,0,35,94.24,3,One year,Electronic check
+CUST01149,0.27395559444805373,Low Risk,0,25,94.24,5,One year,Mailed check
+CUST01788,0.27394565358670786,Low Risk,0,34,94.24,3,Two year,Electronic check
+CUST05422,0.2739424861512288,Low Risk,0,27,94.24,3,One year,Mailed check
+CUST00651,0.2739424861512288,Low Risk,0,27,94.24,3,Two year,Mailed check
+CUST02403,0.2739322561258958,Low Risk,0,31,94.24,2,One year,Electronic check
+CUST05082,0.2739161532859527,Low Risk,0,69,94.24,2,Month-to-month,Credit card (automatic)
+CUST01211,0.2738918736966296,Low Risk,0,32,94.24,3,One year,Mailed check
+CUST06738,0.273885229262744,Low Risk,0,29,94.24,3,One year,Mailed check
+CUST06786,0.27382547918902805,Low Risk,0,31,94.24,4,One year,Mailed check
+CUST03096,0.2738229165411385,Low Risk,1,30,94.24,4,One year,Electronic check
+CUST06879,0.27344772047027466,Low Risk,1,21,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06010,0.27342070247240186,Low Risk,0,3,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02924,0.2734162912171599,Low Risk,1,12,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00902,0.2733643707959015,Low Risk,1,67,94.24,2,Month-to-month,Electronic check
+CUST06742,0.2733463107393918,Low Risk,0,65,94.24,2,Month-to-month,Credit card (automatic)
+CUST01369,0.27327300300100826,Low Risk,0,20,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03127,0.2731552213177881,Low Risk,1,72,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST01265,0.27304506490707187,Low Risk,0,19,94.24,3,Month-to-month,Credit card (automatic)
+CUST00559,0.27301507200493624,Low Risk,0,65,94.24,2,Month-to-month,Mailed check
+CUST00352,0.27293018533521285,Low Risk,0,62,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03442,0.2726500446233336,Low Risk,1,38,94.24,6,Month-to-month,Bank transfer (automatic)
+CUST05736,0.2725999877188835,Low Risk,0,13,94.24,5,Month-to-month,Credit card (automatic)
+CUST05935,0.272486509563707,Low Risk,0,4,94.24,3,Month-to-month,Mailed check
+CUST02680,0.27246838373198473,Low Risk,0,16,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST02593,0.2724004612659523,Low Risk,0,15,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02453,0.2722882416635276,Low Risk,0,65,94.24,1,Month-to-month,Credit card (automatic)
+CUST00298,0.27221092771575955,Low Risk,0,61,94.24,4,Month-to-month,Electronic check
+CUST03380,0.27179472348479616,Low Risk,1,58,94.24,2,Month-to-month,Electronic check
+CUST02572,0.271750679572119,Low Risk,0,27,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02677,0.2717421782445897,Low Risk,0,15,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST04521,0.2716890536703753,Low Risk,0,15,94.24,2,Month-to-month,Credit card (automatic)
+CUST06074,0.27152753966220394,Low Risk,1,52,94.24,4,Month-to-month,Credit card (automatic)
+CUST02510,0.2715077261446334,Low Risk,0,23,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST03001,0.2714234740489213,Low Risk,0,10,94.24,4,Month-to-month,Credit card (automatic)
+CUST00164,0.27130802949716365,Low Risk,0,6,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST05433,0.2713026377413368,Low Risk,0,9,94.24,3,Month-to-month,Credit card (automatic)
+CUST05801,0.27119650295721986,Low Risk,1,9,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST02941,0.2711282786582827,Low Risk,0,30,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST06585,0.27109578335407325,Low Risk,1,6,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST06910,0.27101358627194594,Low Risk,0,24,94.24,3,Month-to-month,Credit card (automatic)
+CUST00154,0.2708436480483496,Low Risk,0,45,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02205,0.27076608895202225,Low Risk,0,53,94.24,5,Month-to-month,Mailed check
+CUST02435,0.2703810823254258,Low Risk,0,4,94.24,4,Month-to-month,Credit card (automatic)
+CUST05929,0.2702332793641783,Low Risk,1,39,94.24,3,Month-to-month,Credit card (automatic)
+CUST06599,0.2702332793641783,Low Risk,0,39,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST05902,0.27017779849459533,Low Risk,1,49,94.24,3,Month-to-month,Mailed check
+CUST05937,0.26992969611003537,Low Risk,0,20,94.24,2,Month-to-month,Credit card (automatic)
+CUST05679,0.2698959552837647,Low Risk,0,34,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06188,0.26988720777467645,Low Risk,0,72,94.24,2,Month-to-month,Credit card (automatic)
+CUST02264,0.269876794560858,Low Risk,0,20,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02637,0.26983431147482256,Low Risk,1,72,94.24,3,Month-to-month,Credit card (automatic)
+CUST04071,0.269736340639121,Low Risk,0,21,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04496,0.26972089149788553,Low Risk,0,4,94.24,2,Month-to-month,Mailed check
+CUST05437,0.26971392074741496,Low Risk,1,71,94.24,2,Month-to-month,Credit card (automatic)
+CUST02123,0.26968755603379824,Low Risk,0,0,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST01304,0.26966104586675943,Low Risk,0,71,94.24,3,Month-to-month,Credit card (automatic)
+CUST02325,0.2696464304358351,Low Risk,0,70,94.24,0,Month-to-month,Credit card (automatic)
+CUST01776,0.269627799441614,Low Risk,0,22,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST05550,0.2695993754786426,Low Risk,1,6,94.24,3,Month-to-month,Credit card (automatic)
+CUST04080,0.2695935639017027,Low Risk,0,70,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST01106,0.26948785045325696,Low Risk,0,70,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02970,0.26943500354032507,Low Risk,0,70,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST02788,0.26940816579708354,Low Risk,0,40,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00916,0.2693886208233062,Low Risk,1,23,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST05052,0.2693147252586258,Low Risk,1,69,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00074,0.2693147252586258,Low Risk,0,69,94.24,3,Month-to-month,Credit card (automatic)
+CUST06306,0.2693147252586258,Low Risk,1,69,94.24,3,Month-to-month,Credit card (automatic)
+CUST05419,0.2693121729099259,Low Risk,0,70,94.24,3,Month-to-month,Mailed check
+CUST01620,0.26923888116116645,Low Risk,1,4,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST01119,0.2691680616800086,Low Risk,1,3,94.24,3,Month-to-month,Electronic check
+CUST06228,0.26915613340492583,Low Risk,0,69,94.24,3,Month-to-month,Mailed check
+CUST03960,0.2691416703071025,Low Risk,0,68,94.24,3,Month-to-month,Credit card (automatic)
+CUST04183,0.26907427042949383,Low Risk,0,67,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST06666,0.2690214747525922,Low Risk,1,67,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST05695,0.26890131312654864,Low Risk,0,66,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST01805,0.26874734722916127,Low Risk,0,5,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06261,0.26872842612432696,Low Risk,1,65,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02052,0.2687251824974951,Low Risk,1,40,94.24,1,Month-to-month,Mailed check
+CUST04586,0.26862292715243596,Low Risk,0,65,94.24,3,Month-to-month,Credit card (automatic)
+CUST04931,0.2685028781535947,Low Risk,0,64,94.24,2,Month-to-month,Credit card (automatic)
+CUST06677,0.2684033951902983,Low Risk,0,7,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01401,0.2683974352294001,Low Risk,0,64,94.24,4,Month-to-month,Credit card (automatic)
+CUST04270,0.2683269127170212,Low Risk,0,38,94.24,2,Month-to-month,Mailed check
+CUST02741,0.2682452777460613,Low Risk,0,7,94.24,5,Month-to-month,Credit card (automatic)
+CUST01804,0.26810481705115724,Low Risk,1,62,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02346,0.26808701625724796,Low Risk,1,36,94.24,0,Month-to-month,Mailed check
+CUST05793,0.2680521418340921,Low Risk,1,62,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST01258,0.26793225447380165,Low Risk,0,61,94.24,3,Month-to-month,Credit card (automatic)
+CUST05807,0.2679290169359909,Low Risk,0,36,94.24,3,Month-to-month,Electronic check
+CUST06335,0.2678124011145445,Low Risk,0,60,94.24,2,Month-to-month,Credit card (automatic)
+CUST01454,0.2677597623307852,Low Risk,0,60,94.24,3,Month-to-month,Credit card (automatic)
+CUST05963,0.2677597623307852,Low Risk,1,60,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03106,0.26770713011038394,Low Risk,0,60,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04245,0.26770713011038394,Low Risk,0,60,94.24,4,Month-to-month,Credit card (automatic)
+CUST03764,0.2676367226254034,Low Risk,0,34,94.24,2,Month-to-month,Mailed check
+CUST04119,0.2676313787086306,Low Risk,0,67,94.24,5,Month-to-month,Mailed check
+CUST04453,0.2675873333156809,Low Risk,0,66,94.24,3,Month-to-month,Mailed check
+CUST04006,0.2675773475820466,Low Risk,0,59,94.24,4,Month-to-month,Electronic check
+CUST01953,0.26753472993439087,Low Risk,0,59,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST01518,0.2675201875345425,Low Risk,0,58,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST04275,0.2674913876152085,Low Risk,0,65,94.24,2,Month-to-month,Electronic check
+CUST04513,0.2674813880121662,Low Risk,0,58,94.24,3,Month-to-month,Mailed check
+CUST00255,0.26742922999177754,Low Risk,0,10,94.24,3,Month-to-month,Electronic check
+CUST02132,0.26741498944198283,Low Risk,0,58,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST05399,0.2673972177157458,Low Risk,0,32,94.24,0,Month-to-month,Electronic check
+CUST06389,0.26734786379539766,Low Risk,0,57,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02793,0.2673098176203384,Low Risk,0,58,94.24,5,Month-to-month,Credit card (automatic)
+CUST03486,0.26729528298463784,Low Risk,0,57,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02660,0.267242708743119,Low Risk,1,57,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03138,0.267242708743119,Low Risk,1,57,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST01140,0.2671343935271022,Low Risk,0,7,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06483,0.2671198199579256,Low Risk,0,31,94.24,2,Month-to-month,Electronic check
+CUST02698,0.2670292918362316,Low Risk,1,7,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST02518,0.26701451193732983,Low Risk,0,5,94.24,3,Month-to-month,Mailed check
+CUST04484,0.2669508901309448,Low Risk,0,55,94.24,2,Month-to-month,Credit card (automatic)
+CUST00265,0.2669508901309448,Low Risk,0,55,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06346,0.2669508901309448,Low Risk,1,55,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04399,0.2668983589532187,Low Risk,0,55,94.24,3,Month-to-month,Credit card (automatic)
+CUST03392,0.26683131575480873,Low Risk,0,54,94.24,1,Month-to-month,Credit card (automatic)
+CUST00482,0.26683131575480873,Low Risk,0,54,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST00179,0.2667583451409502,Low Risk,0,5,94.24,1,Month-to-month,Credit card (automatic)
+CUST05939,0.2667262899086623,Low Risk,0,54,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02898,0.2667262899086623,Low Risk,1,54,94.24,3,Month-to-month,Credit card (automatic)
+CUST06514,0.26667378684984344,Low Risk,0,54,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST02049,0.2666067795475363,Low Risk,0,53,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02948,0.26651726688553656,Low Risk,0,6,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST00260,0.26649858340941995,Low Risk,0,28,94.24,4,Month-to-month,Electronic check
+CUST04833,0.2664958755457383,Low Risk,1,5,94.24,6,Month-to-month,Bank transfer (automatic)
+CUST06145,0.2664493350268878,Low Risk,0,53,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST05946,0.266434830165023,Low Risk,1,52,94.24,2,Month-to-month,Credit card (automatic)
+CUST03682,0.2663425989489003,Low Risk,0,72,94.24,1,Month-to-month,Mailed check
+CUST03448,0.2662629514193348,Low Risk,1,51,94.24,2,Month-to-month,Credit card (automatic)
+CUST05387,0.2660387199385618,Low Risk,1,50,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST01680,0.26598986897001803,Low Risk,0,11,94.24,3,Month-to-month,Mailed check
+CUST05360,0.26596859187837746,Low Risk,0,24,94.24,1,Month-to-month,Electronic check
+CUST06182,0.2659681079439149,Low Risk,0,47,94.24,2,Month-to-month,Electronic check
+CUST03808,0.26593389290434216,Low Risk,0,50,94.24,5,Month-to-month,Credit card (automatic)
+CUST03118,0.2658670041127967,Low Risk,0,49,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06264,0.26580012605349307,Low Risk,0,48,94.24,1,Month-to-month,Credit card (automatic)
+CUST03321,0.2657622202400403,Low Risk,1,49,94.24,5,Month-to-month,Credit card (automatic)
+CUST07036,0.26545696167912275,Low Risk,0,46,94.24,1,Month-to-month,Credit card (automatic)
+CUST02663,0.2654190871126703,Low Risk,0,47,94.24,5,Month-to-month,Credit card (automatic)
+CUST03967,0.26540800891859206,Low Risk,0,51,94.24,4,Month-to-month,Electronic check
+CUST03978,0.26540461804329835,Low Risk,0,46,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04459,0.26540461804329835,Low Risk,0,46,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02465,0.26540461804329835,Low Risk,0,46,94.24,2,Month-to-month,Credit card (automatic)
+CUST04404,0.26536987006574686,Low Risk,0,8,94.24,1,Month-to-month,Credit card (automatic)
+CUST04068,0.2653522810002124,Low Risk,0,46,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02679,0.2653175374000193,Low Risk,1,8,94.24,2,Month-to-month,Credit card (automatic)
+CUST00755,0.2653133219857997,Low Risk,0,42,94.24,2,Month-to-month,Mailed check
+CUST06177,0.2652652113280951,Low Risk,0,8,94.24,3,Month-to-month,Credit card (automatic)
+CUST03581,0.2652118798039611,Low Risk,1,11,94.24,5,Month-to-month,Electronic check
+CUST04416,0.2651882863761535,Low Risk,0,41,94.24,2,Month-to-month,Electronic check
+CUST04196,0.26518084815963877,Low Risk,0,45,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03909,0.2650094861217176,Low Risk,1,44,94.24,3,Month-to-month,Credit card (automatic)
+CUST00015,0.2649291124472406,Low Risk,0,5,94.24,3,Month-to-month,Mailed check
+CUST04646,0.2648904671158767,Low Risk,0,43,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01865,0.2648872530339675,Low Risk,0,18,94.24,2,Month-to-month,Mailed check
+CUST04719,0.2648800900310533,Low Risk,0,6,94.24,2,Month-to-month,Credit card (automatic)
+CUST06625,0.26484072993760516,Low Risk,1,39,94.24,4,Month-to-month,Electronic check
+CUST04806,0.2648278191340647,Low Risk,0,6,94.24,3,Month-to-month,Credit card (automatic)
+CUST00854,0.26481684603895955,Low Risk,1,12,94.24,3,Month-to-month,Electronic check
+CUST01715,0.2647859293014487,Low Risk,0,43,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00673,0.264751195323038,Low Risk,0,69,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST02004,0.2646601007089285,Low Risk,0,7,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST03804,0.264548053996389,Low Risk,0,41,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01329,0.2644936783477998,Low Risk,0,9,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06543,0.2644936783477998,Low Risk,0,9,94.24,3,Month-to-month,Credit card (automatic)
+CUST06826,0.26444794804006033,Low Risk,0,66,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04108,0.26437695375309617,Low Risk,1,40,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01588,0.2642790180814194,Low Risk,1,41,94.24,2,Month-to-month,Electronic check
+CUST03919,0.2642581166880167,Low Risk,0,39,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02757,0.26415925045680666,Low Risk,0,65,94.24,3,Month-to-month,Electronic check
+CUST06753,0.26415373875316667,Low Risk,0,39,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00833,0.26415373875316667,Low Risk,0,39,94.24,3,Month-to-month,Credit card (automatic)
+CUST01767,0.26410086519788223,Low Risk,0,71,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06662,0.2640869850970717,Low Risk,0,14,94.24,3,Month-to-month,Electronic check
+CUST03340,0.26400940233939313,Low Risk,0,14,94.24,4,Month-to-month,Mailed check
+CUST04267,0.26398280199889573,Low Risk,0,38,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02456,0.26398280199889573,Low Risk,0,38,94.24,3,Month-to-month,Credit card (automatic)
+CUST03798,0.26381067650137147,Low Risk,0,54,94.24,3,Month-to-month,Electronic check
+CUST03534,0.26380417135270856,Low Risk,0,28,94.24,3,Month-to-month,Electronic check
+CUST05683,0.2637975232827249,Low Risk,1,36,94.24,0,Month-to-month,Credit card (automatic)
+CUST04846,0.26378642787992035,Low Risk,1,16,94.24,3,Month-to-month,Mailed check
+CUST06418,0.2637742120598787,Low Risk,1,38,94.24,7,Month-to-month,Credit card (automatic)
+CUST06592,0.26370579656304566,Low Risk,0,9,94.24,5,Month-to-month,Credit card (automatic)
+CUST02250,0.26370344729850753,Low Risk,1,68,94.24,1,Month-to-month,Credit card (automatic)
+CUST03691,0.2636932620716523,Low Risk,0,36,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03331,0.26364114138587963,Low Risk,0,36,94.24,3,Month-to-month,Credit card (automatic)
+CUST05555,0.26364114138587963,Low Risk,0,36,94.24,3,Month-to-month,Credit card (automatic)
+CUST06702,0.26362819095170215,Low Risk,0,15,94.24,1,Month-to-month,Electronic check
+CUST03699,0.2636040251529617,Low Risk,1,36,94.24,5,Month-to-month,Mailed check
+CUST01827,0.2635746222124457,Low Risk,1,35,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST01436,0.26349302958779525,Low Risk,0,60,94.24,3,Month-to-month,Credit card (automatic)
+CUST05048,0.2633682200760194,Low Risk,0,21,94.24,6,Month-to-month,Electronic check
+CUST02271,0.26335503698306334,Low Risk,0,66,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03422,0.26329976477908495,Low Risk,0,34,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00313,0.26325016507480764,Low Risk,0,58,94.24,2,Month-to-month,Credit card (automatic)
+CUST00274,0.26324449277622286,Low Risk,0,9,94.24,4,Month-to-month,Mailed check
+CUST02211,0.26323330094758235,Low Risk,1,33,94.24,1,Month-to-month,Credit card (automatic)
+CUST05805,0.2631855585795549,Low Risk,0,16,94.24,1,Month-to-month,Electronic check
+CUST03918,0.2631534588622601,Low Risk,1,16,94.24,5,Month-to-month,Electronic check
+CUST01966,0.2631291830323168,Low Risk,0,33,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02754,0.2631291830323168,Low Risk,0,33,94.24,3,Month-to-month,Credit card (automatic)
+CUST05810,0.2631170510788026,Low Risk,0,24,94.24,1,Month-to-month,Mailed check
+CUST03719,0.26311378306929045,Low Risk,0,64,94.24,1,Month-to-month,Credit card (automatic)
+CUST00020,0.2630899247301241,Low Risk,0,57,94.24,4,Month-to-month,Electronic check
+CUST05484,0.2630627468844242,Low Risk,0,32,94.24,1,Month-to-month,Credit card (automatic)
+CUST03632,0.26305184038465457,Low Risk,1,65,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST04687,0.2630218920507809,Low Risk,0,8,94.24,5,Month-to-month,Mailed check
+CUST00765,0.26301070630754425,Low Risk,0,32,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03293,0.26301070630754425,Low Risk,1,32,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST00049,0.26301070630754425,Low Risk,1,32,94.24,2,Month-to-month,Credit card (automatic)
+CUST05407,0.2629162851576499,Low Risk,1,63,94.24,2,Month-to-month,Credit card (automatic)
+CUST01181,0.26290890086694146,Low Risk,0,24,94.24,5,Month-to-month,Electronic check
+CUST00643,0.2627249454842582,Low Risk,0,53,94.24,2,Month-to-month,Mailed check
+CUST05476,0.2627196769371838,Low Risk,1,62,94.24,3,Month-to-month,Credit card (automatic)
+CUST04019,0.262716759160555,Low Risk,0,52,94.24,0,Month-to-month,Electronic check
+CUST00977,0.26269423363125083,Low Risk,0,44,94.24,3,Month-to-month,Electronic check
+CUST00080,0.26269423363125083,Low Risk,0,44,94.24,3,Month-to-month,Mailed check
+CUST02615,0.2626279595053015,Low Risk,1,61,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06377,0.2626081116772507,Low Risk,0,42,94.24,1,Month-to-month,Mailed check
+CUST02537,0.2626022826524434,Low Risk,1,10,94.24,4,Month-to-month,Credit card (automatic)
+CUST06384,0.26256078945549033,Low Risk,1,52,94.24,3,Month-to-month,Electronic check
+CUST05087,0.2625371359869741,Low Risk,0,60,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST05926,0.26252866649436285,Low Risk,0,53,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04227,0.2625088128064226,Low Risk,0,52,94.24,4,Month-to-month,Mailed check
+CUST05442,0.2625028676511157,Low Risk,1,51,94.24,2,Month-to-month,Electronic check
+CUST05602,0.2624429544841617,Low Risk,1,18,94.24,2,Month-to-month,Mailed check
+CUST04621,0.2623812349704802,Low Risk,1,60,94.24,4,Month-to-month,Credit card (automatic)
+CUST00984,0.2623292878463449,Low Risk,0,28,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02813,0.262329281221785,Low Risk,0,60,94.24,5,Month-to-month,Credit card (automatic)
+CUST01096,0.26229939550403375,Low Risk,0,51,94.24,1,Month-to-month,Credit card (automatic)
+CUST04642,0.26227414703860913,Low Risk,0,3,94.24,3,Month-to-month,Electronic check
+CUST02812,0.2622394405505673,Low Risk,0,59,94.24,4,Month-to-month,Credit card (automatic)
+CUST01175,0.26221251740433915,Low Risk,0,50,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST01546,0.2621997158283734,Low Risk,0,22,94.24,0,Month-to-month,Mailed check
+CUST00053,0.2621505133638285,Low Risk,0,37,94.24,2,Month-to-month,Mailed check
+CUST02482,0.2621074536965337,Low Risk,0,11,94.24,2,Month-to-month,Credit card (automatic)
+CUST06618,0.2620986580786403,Low Risk,0,58,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST06787,0.26205674065495466,Low Risk,0,50,94.24,3,Month-to-month,Credit card (automatic)
+CUST00877,0.26203196165156567,Low Risk,0,36,94.24,3,Month-to-month,Mailed check
+CUST02981,0.26199203329920795,Low Risk,0,22,94.24,4,Month-to-month,Mailed check
+CUST02728,0.2619517172028823,Low Risk,0,11,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST02772,0.2619339108530494,Low Risk,0,1,94.24,3,Month-to-month,Mailed check
+CUST03982,0.26191926662101306,Low Risk,0,49,94.24,3,Month-to-month,Credit card (automatic)
+CUST00773,0.261820327536756,Low Risk,0,56,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST05288,0.2617831688772227,Low Risk,0,48,94.24,3,Month-to-month,Credit card (automatic)
+CUST05316,0.26176844543765276,Low Risk,0,56,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST03299,0.2617670892528194,Low Risk,1,25,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02502,0.26175883637670827,Low Risk,1,29,94.24,3,Month-to-month,Mailed check
+CUST03931,0.26169821226086587,Low Risk,0,69,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST04526,0.26164900805495833,Low Risk,0,24,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04863,0.2616485291784816,Low Risk,0,47,94.24,3,Month-to-month,Credit card (automatic)
+CUST05383,0.2616314405083432,Low Risk,0,70,94.24,4,Month-to-month,Credit card (automatic)
+CUST04113,0.26161958760501125,Low Risk,0,43,94.24,4,Month-to-month,Mailed check
+CUST00424,0.26159714787365523,Low Risk,1,24,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04624,0.2615944859424174,Low Risk,0,69,94.24,2,Month-to-month,Credit card (automatic)
+CUST04941,0.2615679600113488,Low Risk,1,70,94.24,2,Month-to-month,Electronic check
+CUST01056,0.2615679600113488,Low Risk,0,70,94.24,2,Month-to-month,Mailed check
+CUST01395,0.261530961252467,Low Risk,1,23,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST04842,0.2614499368268561,Low Risk,0,69,94.24,1,Month-to-month,Electronic check
+CUST02696,0.2614124305075451,Low Risk,1,70,94.24,5,Month-to-month,Mailed check
+CUST05516,0.26138184949828763,Low Risk,0,52,94.24,2,Month-to-month,Credit card (automatic)
+CUST02699,0.26137551531353614,Low Risk,0,4,94.24,2,Month-to-month,Mailed check
+CUST06453,0.26135176745142163,Low Risk,0,37,94.24,1,Month-to-month,Mailed check
+CUST04543,0.26135102768266133,Low Risk,0,68,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST03258,0.2613462740804129,Low Risk,0,69,94.24,3,Month-to-month,Mailed check
+CUST03920,0.26128012847295196,Low Risk,0,68,94.24,1,Month-to-month,Mailed check
+CUST05179,0.26124969824529704,Low Risk,1,51,94.24,2,Month-to-month,Credit card (automatic)
+CUST01765,0.26122852774273425,Low Risk,0,45,94.24,6,Month-to-month,Credit card (automatic)
+CUST03046,0.2612283155378342,Low Risk,0,68,94.24,2,Month-to-month,Electronic check
+CUST01385,0.26121262520299104,Low Risk,0,12,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02814,0.26118121202074324,Low Risk,1,10,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04203,0.26117910286032225,Low Risk,0,28,94.24,1,Month-to-month,Electronic check
+CUST02053,0.261160820921615,Low Risk,0,12,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04381,0.2611395462752501,Low Risk,0,21,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03166,0.2611294117672885,Low Risk,0,10,94.24,4,Month-to-month,Credit card (automatic)
+CUST02701,0.26112613954355157,Low Risk,0,66,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST05914,0.26110902328307045,Low Risk,0,12,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST06907,0.2610877513651579,Low Risk,0,21,94.24,3,Month-to-month,Credit card (automatic)
+CUST00359,0.2610828535243856,Low Risk,0,33,94.24,3,Month-to-month,Electronic check
+CUST04297,0.2610746533865794,Low Risk,0,43,94.24,4,Month-to-month,Credit card (automatic)
+CUST07024,0.2610216480670123,Low Risk,1,20,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02202,0.26101257665806715,Low Risk,0,12,94.24,2,Month-to-month,Credit card (automatic)
+CUST04679,0.26100681571829476,Low Risk,1,67,94.24,3,Month-to-month,Mailed check
+CUST03590,0.26096624903490573,Low Risk,1,48,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST01607,0.2609286393200187,Low Risk,0,41,94.24,2,Month-to-month,Credit card (automatic)
+CUST06538,0.26091809514129083,Low Risk,0,20,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04916,0.26090902606054284,Low Risk,0,12,94.24,4,Month-to-month,Credit card (automatic)
+CUST05080,0.2609052386761546,Low Risk,0,64,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03251,0.2608627103288458,Low Risk,0,48,94.24,2,Month-to-month,Credit card (automatic)
+CUST06648,0.2608534738318529,Low Risk,0,64,94.24,3,Month-to-month,Credit card (automatic)
+CUST03075,0.260826273371933,Low Risk,1,11,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST03215,0.26082227254119633,Low Risk,0,63,94.24,1,Month-to-month,Credit card (automatic)
+CUST03481,0.26082227254119633,Low Risk,0,63,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST06089,0.26078969191328855,Low Risk,0,5,94.24,3,Month-to-month,Mailed check
+CUST04187,0.26077051834997594,Low Risk,0,63,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST00582,0.26073556842297574,Low Risk,0,70,94.24,0,Month-to-month,Credit card (automatic)
+CUST06645,0.2607193836502931,Low Risk,1,65,94.24,2,Month-to-month,Mailed check
+CUST04645,0.2607187708060083,Low Risk,1,63,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00845,0.26066451088653275,Low Risk,0,12,94.24,1,Month-to-month,Credit card (automatic)
+CUST04123,0.26063208896275997,Low Risk,1,70,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03310,0.26063072631802536,Low Risk,0,18,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST00084,0.260615295662166,Low Risk,0,63,94.24,5,Month-to-month,Credit card (automatic)
+CUST03120,0.26057899673598334,Low Risk,0,18,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00239,0.26054370863295256,Low Risk,0,45,94.24,1,Month-to-month,Credit card (automatic)
+CUST00322,0.26051012273177776,Low Risk,0,46,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04306,0.2605099007913001,Low Risk,0,37,94.24,1,Month-to-month,Credit card (automatic)
+CUST02755,0.2604981632001862,Low Risk,0,64,94.24,3,Month-to-month,Mailed check
+CUST06408,0.2604714068282765,Low Risk,1,13,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01719,0.26046126238911277,Low Risk,1,17,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06405,0.26044645066091493,Low Risk,0,64,94.24,4,Month-to-month,Mailed check
+CUST00069,0.26044645066091493,Low Risk,1,64,94.24,4,Month-to-month,Electronic check
+CUST04146,0.2604125201050368,Low Risk,0,68,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST03890,0.26039936848568535,Low Risk,0,36,94.24,1,Month-to-month,Credit card (automatic)
+CUST05119,0.26038543169679196,Low Risk,0,13,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06269,0.26037347862076016,Low Risk,1,60,94.24,2,Month-to-month,Credit card (automatic)
+CUST02841,0.2603679952830047,Low Risk,0,13,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST06751,0.2603547785981531,Low Risk,0,37,94.24,4,Month-to-month,Credit card (automatic)
+CUST04268,0.260340831120542,Low Risk,0,69,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST00511,0.2602959754741969,Low Risk,1,36,94.24,3,Month-to-month,Credit card (automatic)
+CUST00850,0.260291869856091,Low Risk,0,16,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST05802,0.2602691875835675,Low Risk,0,44,94.24,4,Month-to-month,Credit card (automatic)
+CUST04226,0.26024369231495664,Low Risk,0,59,94.24,2,Month-to-month,Credit card (automatic)
+CUST03418,0.2602401838573648,Low Risk,1,16,94.24,3,Month-to-month,Credit card (automatic)
+CUST02601,0.2602401838573648,Low Risk,1,16,94.24,3,Month-to-month,Credit card (automatic)
+CUST06792,0.2602110940447736,Low Risk,0,62,94.24,2,Month-to-month,Electronic check
+CUST06202,0.2602110940447736,Low Risk,0,62,94.24,2,Month-to-month,Electronic check
+CUST01637,0.26018850451184833,Low Risk,1,16,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST01025,0.2601750649234318,Low Risk,0,67,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST05773,0.26016695883272345,Low Risk,1,58,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02119,0.26015941844443435,Low Risk,0,62,94.24,3,Month-to-month,Electronic check
+CUST06157,0.2601540790109993,Low Risk,0,68,94.24,6,Month-to-month,Bank transfer (automatic)
+CUST05670,0.26009376391617817,Low Risk,0,66,94.24,2,Month-to-month,Credit card (automatic)
+CUST02076,0.2600891520655675,Low Risk,0,42,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02873,0.2600804667236032,Low Risk,0,41,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST03720,0.2600242936050377,Low Risk,0,13,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04177,0.2600242936050377,Low Risk,0,13,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00599,0.26001922699893637,Low Risk,1,15,94.24,4,Month-to-month,Credit card (automatic)
+CUST00167,0.2600119690453022,Low Risk,0,58,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST02866,0.2600049481061547,Low Risk,0,14,94.24,1,Month-to-month,Credit card (automatic)
+CUST00649,0.2599904495915512,Low Risk,0,66,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00470,0.2599883364821167,Low Risk,1,57,94.24,2,Month-to-month,Credit card (automatic)
+CUST04200,0.259972642065205,Low Risk,1,13,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST04795,0.25995462706503114,Low Risk,0,14,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST00138,0.25995329905915593,Low Risk,0,14,94.24,2,Month-to-month,Credit card (automatic)
+CUST04347,0.25995329905915593,Low Risk,0,14,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03041,0.25995329905915593,Low Risk,1,14,94.24,2,Month-to-month,Credit card (automatic)
+CUST02057,0.25990165666856496,Low Risk,0,14,94.24,3,Month-to-month,Credit card (automatic)
+CUST04033,0.25990165666856496,Low Risk,1,14,94.24,3,Month-to-month,Credit card (automatic)
+CUST03028,0.25988686558037954,Low Risk,0,61,94.24,5,Month-to-month,Electronic check
+CUST00727,0.25987259140354746,Low Risk,0,60,94.24,2,Month-to-month,Electronic check
+CUST06146,0.25986798246512866,Low Risk,0,40,94.24,3,Month-to-month,Credit card (automatic)
+CUST04409,0.2598513485984799,Low Risk,0,14,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03772,0.2598423306446713,Low Risk,0,55,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST01037,0.2598357480713367,Low Risk,0,13,94.24,1,Month-to-month,Credit card (automatic)
+CUST02209,0.2598136216930997,Low Risk,0,14,94.24,3,Month-to-month,Credit card (automatic)
+CUST02407,0.2598051351092518,Low Risk,0,63,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST04509,0.25978412083577956,Low Risk,0,13,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03785,0.259779662342201,Low Risk,0,64,94.24,3,Month-to-month,Credit card (automatic)
+CUST01485,0.2597390811340869,Low Risk,1,55,94.24,2,Month-to-month,Credit card (automatic)
+CUST00394,0.25970189519263137,Low Risk,0,63,94.24,2,Month-to-month,Credit card (automatic)
+CUST03342,0.2596808863400948,Low Risk,1,13,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST02756,0.2596502852228301,Low Risk,0,63,94.24,3,Month-to-month,Credit card (automatic)
+CUST02170,0.25963299353150393,Low Risk,1,29,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02810,0.25962445398619666,Low Risk,0,15,94.24,4,Month-to-month,Credit card (automatic)
+CUST05990,0.25958596963669905,Low Risk,0,58,94.24,1,Month-to-month,Electronic check
+CUST03946,0.25956534104776396,Low Risk,0,54,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06955,0.25956534104776396,Low Risk,1,54,94.24,3,Month-to-month,Credit card (automatic)
+CUST05658,0.2595634153315553,Low Risk,0,12,94.24,3,Month-to-month,Credit card (automatic)
+CUST00699,0.2595634153315553,Low Risk,0,12,94.24,3,Month-to-month,Credit card (automatic)
+CUST00463,0.2595486367421217,Low Risk,0,59,94.24,5,Month-to-month,Mailed check
+CUST04219,0.2595435854630478,Low Risk,0,17,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST00013,0.2595435854630478,Low Risk,0,17,94.24,1,Month-to-month,Credit card (automatic)
+CUST00820,0.25949657461523773,Low Risk,0,53,94.24,2,Month-to-month,Credit card (automatic)
+CUST00639,0.25948278628028915,Low Risk,0,58,94.24,3,Month-to-month,Electronic check
+CUST01997,0.2594756680703998,Low Risk,0,35,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST01720,0.25946216301764563,Low Risk,0,54,94.24,5,Month-to-month,Credit card (automatic)
+CUST00555,0.2594470759377135,Low Risk,0,61,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02569,0.2594459788400094,Low Risk,0,11,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06860,0.2594296564451002,Low Risk,0,52,94.24,1,Month-to-month,Credit card (automatic)
+CUST01742,0.2593954988637704,Low Risk,0,61,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST01241,0.2593954988637704,Low Risk,0,61,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST01595,0.2593954988637704,Low Risk,0,61,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00496,0.25939440190777135,Low Risk,0,11,94.24,3,Month-to-month,Credit card (automatic)
+CUST00729,0.25939440190777135,Low Risk,0,11,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06822,0.25938019818694485,Low Risk,0,15,94.24,3,Month-to-month,Credit card (automatic)
+CUST06348,0.25936682594710503,Low Risk,0,16,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04541,0.2593653734900689,Low Risk,1,57,94.24,2,Month-to-month,Electronic check
+CUST04561,0.25933860388901714,Low Risk,0,24,94.24,3,Month-to-month,Credit card (automatic)
+CUST00782,0.2593337083231465,Low Risk,0,21,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06128,0.2593331884241041,Low Risk,0,15,94.24,2,Month-to-month,Credit card (automatic)
+CUST01337,0.2593285768721666,Low Risk,0,10,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02911,0.259321774015085,Low Risk,1,60,94.24,2,Month-to-month,Credit card (automatic)
+CUST02200,0.259321774015085,Low Risk,0,60,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04527,0.25931380697087236,Low Risk,1,57,94.24,3,Month-to-month,Electronic check
+CUST03840,0.2593106808296188,Low Risk,0,7,94.24,1,Month-to-month,Mailed check
+CUST04714,0.2593074459377111,Low Risk,0,54,94.24,8,Month-to-month,Bank transfer (automatic)
+CUST03076,0.25930160401478125,Low Risk,1,17,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02803,0.2592816260637253,Low Risk,0,15,94.24,3,Month-to-month,Credit card (automatic)
+CUST06292,0.25927701510771856,Low Risk,0,10,94.24,2,Month-to-month,Credit card (automatic)
+CUST05547,0.25926224711515106,Low Risk,0,57,94.24,4,Month-to-month,Electronic check
+CUST04906,0.2592186589083918,Low Risk,0,60,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST02115,0.2592032813606862,Low Risk,0,33,94.24,3,Month-to-month,Credit card (automatic)
+CUST01437,0.25919849412168733,Low Risk,1,17,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02690,0.2591790410324943,Low Risk,0,21,94.24,5,Month-to-month,Credit card (automatic)
+CUST06450,0.25916878927553805,Low Risk,0,18,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST03739,0.25915602246727426,Low Risk,0,7,94.24,4,Month-to-month,Mailed check
+CUST00558,0.2591469491719687,Low Risk,0,17,94.24,4,Month-to-month,Credit card (automatic)
+CUST03415,0.2591272616306915,Low Risk,0,58,94.24,1,Month-to-month,Credit card (automatic)
+CUST02206,0.25909559996742143,Low Risk,1,50,94.24,3,Month-to-month,Credit card (automatic)
+CUST04990,0.25909559996742143,Low Risk,1,50,94.24,3,Month-to-month,Credit card (automatic)
+CUST05241,0.2590864523799217,Low Risk,0,49,94.24,1,Month-to-month,Credit card (automatic)
+CUST02777,0.2590791153245525,Low Risk,0,55,94.24,1,Month-to-month,Electronic check
+CUST04009,0.25906954480368866,Low Risk,0,16,94.24,2,Month-to-month,Credit card (automatic)
+CUST00742,0.25906617733934506,Low Risk,1,19,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST01802,0.25905518762606256,Low Risk,1,31,94.24,3,Month-to-month,Credit card (automatic)
+CUST02216,0.25904406832441973,Low Risk,0,50,94.24,4,Month-to-month,Credit card (automatic)
+CUST02508,0.2590418587675437,Low Risk,1,30,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST05791,0.259003661210914,Low Risk,1,31,94.24,4,Month-to-month,Credit card (automatic)
+CUST04984,0.25899030513446836,Low Risk,1,56,94.24,6,Month-to-month,Mailed check
+CUST04883,0.2589664949253373,Low Risk,0,16,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00338,0.25893791927892473,Low Risk,0,20,94.24,2,Month-to-month,Credit card (automatic)
+CUST00355,0.25890361647967863,Low Risk,1,57,94.24,3,Month-to-month,Credit card (automatic)
+CUST06030,0.2589020298611468,Low Risk,0,9,94.24,6,Month-to-month,Bank transfer (automatic)
+CUST05173,0.2589020298611468,Low Risk,0,9,94.24,6,Month-to-month,Bank transfer (automatic)
+CUST03572,0.2588877908550067,Low Risk,0,8,94.24,3,Month-to-month,Credit card (automatic)
+CUST06436,0.25888091004123825,Low Risk,0,29,94.24,4,Month-to-month,Credit card (automatic)
+CUST04935,0.2588735381732902,Low Risk,0,48,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02306,0.2588594899610678,Low Risk,0,26,94.24,2,Month-to-month,Credit card (automatic)
+CUST06682,0.2588521096800068,Low Risk,0,57,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04360,0.25884372628563657,Low Risk,1,16,94.24,3,Month-to-month,Credit card (automatic)
+CUST00344,0.2588403710513659,Low Risk,0,27,94.24,3,Month-to-month,Credit card (automatic)
+CUST02992,0.2588305188353388,Low Risk,0,23,94.24,2,Month-to-month,Credit card (automatic)
+CUST04389,0.25881808120289934,Low Risk,0,17,94.24,1,Month-to-month,Credit card (automatic)
+CUST06507,0.25881765822177516,Low Risk,1,47,94.24,2,Month-to-month,Credit card (automatic)
+CUST05933,0.25881765822177516,Low Risk,0,47,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03603,0.2588072983181399,Low Risk,0,54,94.24,3,Month-to-month,Mailed check
+CUST03857,0.25877053903085884,Low Risk,0,48,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST01287,0.25876616255181295,Low Risk,0,47,94.24,3,Month-to-month,Credit card (automatic)
+CUST06253,0.2587558039898259,Low Risk,1,54,94.24,4,Month-to-month,Mailed check
+CUST01095,0.2587558039898259,Low Risk,0,54,94.24,4,Month-to-month,Mailed check
+CUST00808,0.25873327224477555,Low Risk,0,56,94.24,4,Month-to-month,Credit card (automatic)
+CUST05225,0.25873327224477555,Low Risk,0,56,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04059,0.25870500670839114,Low Risk,0,26,94.24,5,Month-to-month,Credit card (automatic)
+CUST05214,0.2587048311869604,Low Risk,1,6,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST04137,0.25868178750480536,Low Risk,0,56,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST02117,0.25866758074386836,Low Risk,0,7,94.24,4,Month-to-month,Credit card (automatic)
+CUST05708,0.25863860525845017,Low Risk,0,53,94.24,3,Month-to-month,Electronic check
+CUST01690,0.25861625115019904,Low Risk,0,55,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST06272,0.2585729050545698,Low Risk,0,52,94.24,1,Month-to-month,Mailed check
+CUST02255,0.2585508247432878,Low Risk,0,6,94.24,2,Month-to-month,Electronic check
+CUST05155,0.25855040803362833,Low Risk,0,6,94.24,3,Month-to-month,Credit card (automatic)
+CUST02003,0.25855040803362833,Low Risk,1,6,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00777,0.25855040803362833,Low Risk,1,6,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04426,0.2585356669822667,Low Risk,0,53,94.24,5,Month-to-month,Mailed check
+CUST01860,0.2585356669822667,Low Risk,0,53,94.24,5,Month-to-month,Mailed check
+CUST02385,0.25852507552636983,Low Risk,1,17,94.24,2,Month-to-month,Credit card (automatic)
+CUST01293,0.2585214410965019,Low Risk,0,52,94.24,2,Month-to-month,Electronic check
+CUST04350,0.2585214410965019,Low Risk,0,52,94.24,2,Month-to-month,Electronic check
+CUST00976,0.25849936364767734,Low Risk,0,6,94.24,3,Month-to-month,Mailed check
+CUST04699,0.25849894699204207,Low Risk,0,6,94.24,4,Month-to-month,Credit card (automatic)
+CUST02607,0.2584736177691789,Low Risk,0,17,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03707,0.25843949390745174,Low Risk,1,53,94.24,3,Month-to-month,Credit card (automatic)
+CUST06007,0.258431394309565,Low Risk,0,52,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST04420,0.258431394309565,Low Risk,1,52,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST04015,0.2584162510294522,Low Risk,0,43,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01563,0.25840910743059503,Low Risk,0,44,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00483,0.2583528694153273,Low Risk,1,51,94.24,2,Month-to-month,Mailed check
+CUST02432,0.25834502039718815,Low Risk,0,6,94.24,6,Month-to-month,Mailed check
+CUST03979,0.2583366072632759,Low Risk,0,53,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST06527,0.2583303848682397,Low Risk,0,5,94.24,4,Month-to-month,Credit card (automatic)
+CUST00506,0.25826333293477927,Low Risk,0,18,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST00758,0.2582512063598158,Low Risk,0,19,94.24,3,Month-to-month,Credit card (automatic)
+CUST03990,0.25822104146502545,Low Risk,0,42,94.24,4,Month-to-month,Credit card (automatic)
+CUST02392,0.25822104146502545,Low Risk,1,42,94.24,4,Month-to-month,Credit card (automatic)
+CUST06281,0.2582197698040147,Low Risk,1,51,94.24,3,Month-to-month,Credit card (automatic)
+CUST02298,0.25821331170036355,Low Risk,0,4,94.24,3,Month-to-month,Credit card (automatic)
+CUST04674,0.25820181609682424,Low Risk,1,40,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST03698,0.2581990973754265,Low Risk,0,3,94.24,0,Month-to-month,Credit card (automatic)
+CUST03529,0.2581618943920001,Low Risk,0,4,94.24,4,Month-to-month,Credit card (automatic)
+CUST05734,0.2581618943920001,Low Risk,0,4,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04257,0.2581504002809195,Low Risk,1,40,94.24,2,Month-to-month,Credit card (automatic)
+CUST02217,0.25814768191250004,Low Risk,1,3,94.24,1,Month-to-month,Credit card (automatic)
+CUST06099,0.25813295582842744,Low Risk,0,50,94.24,3,Month-to-month,Electronic check
+CUST00406,0.25811234776707154,Low Risk,1,49,94.24,1,Month-to-month,Credit card (automatic)
+CUST06323,0.25809899114112916,Low Risk,0,40,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST00817,0.2580965321058287,Low Risk,0,38,94.24,0,Month-to-month,Credit card (automatic)
+CUST00508,0.2580962731257172,Low Risk,0,3,94.24,2,Month-to-month,Credit card (automatic)
+CUST02151,0.2580874624293671,Low Risk,0,21,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST06313,0.25804512996210294,Low Risk,1,38,94.24,1,Month-to-month,Credit card (automatic)
+CUST04590,0.2580448710156299,Low Risk,0,3,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03168,0.25803606146370783,Low Risk,0,21,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST00522,0.2580252218642312,Low Risk,0,20,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04614,0.25801840888114824,Low Risk,1,39,94.24,3,Month-to-month,Credit card (automatic)
+CUST02784,0.2580095460482913,Low Risk,1,49,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04743,0.257998496282018,Low Risk,0,19,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST04997,0.25797382898423327,Low Risk,0,20,94.24,5,Month-to-month,Credit card (automatic)
+CUST03641,0.25795815520506377,Low Risk,1,49,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04570,0.2579503439403144,Low Risk,0,48,94.24,0,Month-to-month,Electronic check
+CUST04604,0.2579471068745742,Low Risk,0,19,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03833,0.25794234570693414,Low Risk,0,38,94.24,3,Month-to-month,Credit card (automatic)
+CUST01641,0.25794234570693414,Low Risk,0,38,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04892,0.25794234570693414,Low Risk,0,38,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06246,0.25794208682774644,Low Risk,0,3,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST03140,0.2579225339693683,Low Risk,1,37,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST02487,0.2579225339693683,Low Risk,0,37,94.24,2,Month-to-month,Credit card (automatic)
+CUST01338,0.2578787226837812,Low Risk,0,23,94.24,0,Month-to-month,Credit card (automatic)
+CUST05676,0.25786425293154597,Low Risk,0,39,94.24,6,Month-to-month,Credit card (automatic)
+CUST06134,0.2578565971722475,Low Risk,0,36,94.24,2,Month-to-month,Credit card (automatic)
+CUST04730,0.2578251284600022,Low Risk,0,2,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST00688,0.25780997946837186,Low Risk,0,47,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST05397,0.2577657169575318,Low Risk,0,22,94.24,4,Month-to-month,Credit card (automatic)
+CUST03783,0.2577595630519678,Low Risk,0,1,94.24,2,Month-to-month,Credit card (automatic)
+CUST01571,0.25775861456650845,Low Risk,0,47,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST03787,0.25774499585821853,Low Risk,1,35,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02467,0.2577448514159079,Low Risk,1,48,94.24,4,Month-to-month,Electronic check
+CUST01315,0.2577423042642267,Low Risk,0,34,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06110,0.2577146082065413,Low Risk,0,46,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02649,0.25770820470704237,Low Risk,0,1,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06067,0.25770438564125553,Low Risk,1,24,94.24,2,Month-to-month,Credit card (automatic)
+CUST02726,0.25770438564125553,Low Risk,1,24,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST00572,0.25770438564125553,Low Risk,1,24,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06532,0.25770260055403504,Low Risk,1,25,94.24,1,Month-to-month,Credit card (automatic)
+CUST02495,0.25770250432159447,Low Risk,0,36,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST01757,0.25767929933463,Low Risk,0,47,94.24,2,Month-to-month,Mailed check
+CUST00263,0.25765685304296115,Low Risk,1,1,94.24,4,Month-to-month,Credit card (automatic)
+CUST06216,0.25765685304296115,Low Risk,0,1,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST05567,0.25765590480424977,Low Risk,0,47,94.24,6,Month-to-month,Credit card (automatic)
+CUST02695,0.2576512496190442,Low Risk,0,25,94.24,2,Month-to-month,Credit card (automatic)
+CUST04588,0.25764265871093633,Low Risk,1,0,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST06791,0.2576395987452353,Low Risk,0,34,94.24,4,Month-to-month,Credit card (automatic)
+CUST03916,0.2576279514312671,Low Risk,0,47,94.24,3,Month-to-month,Electronic check
+CUST00089,0.2575999053655036,Low Risk,0,25,94.24,3,Month-to-month,Credit card (automatic)
+CUST03683,0.2575922819868189,Low Risk,0,33,94.24,4,Month-to-month,Credit card (automatic)
+CUST06936,0.25758630492591716,Low Risk,0,29,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST00812,0.25756317715958793,Low Risk,0,26,94.24,3,Month-to-month,Credit card (automatic)
+CUST02861,0.25756317715958793,Low Risk,0,26,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST01669,0.25755115752701413,Low Risk,1,43,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02766,0.25753600542441046,Low Risk,0,21,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST04131,0.25753600542441046,Low Risk,0,21,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01889,0.2575349691245858,Low Risk,0,29,94.24,3,Month-to-month,Credit card (automatic)
+CUST00514,0.2575336508035409,Low Risk,1,44,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03809,0.2575321238958976,Low Risk,0,28,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04013,0.25752833757850085,Low Risk,0,8,94.24,0,Month-to-month,Mailed check
+CUST06296,0.25751108607229656,Low Risk,1,46,94.24,2,Month-to-month,Electronic check
+CUST03792,0.2574886493509167,Low Risk,0,0,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST04923,0.2574846761708497,Low Risk,1,21,94.24,3,Month-to-month,Credit card (automatic)
+CUST02361,0.2574846761708497,Low Risk,0,21,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST04489,0.25748364000594026,Low Risk,0,29,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST05255,0.2574819651842938,Low Risk,0,22,94.24,0,Month-to-month,Bank transfer (automatic)
+CUST04754,0.25743732626320515,Low Risk,0,0,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST05027,0.25743732626320515,Low Risk,1,0,94.24,5,Month-to-month,Bank transfer (automatic)
+CUST02915,0.25743335360050834,Low Risk,0,21,94.24,4,Month-to-month,Bank transfer (automatic)
+CUST03638,0.25743335360050834,Low Risk,0,21,94.24,4,Month-to-month,Credit card (automatic)
+CUST06055,0.25740844073745067,Low Risk,0,46,94.24,4,Month-to-month,Mailed check
+CUST00475,0.25739718389831856,Low Risk,1,43,94.24,4,Month-to-month,Credit card (automatic)
+CUST00570,0.2573793274334385,Low Risk,0,22,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01093,0.25736723126056216,Low Risk,0,42,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST06914,0.25735712809579675,Low Risk,1,46,94.24,5,Month-to-month,Mailed check
+CUST03125,0.25734294455158396,Low Risk,0,45,94.24,2,Month-to-month,Mailed check
+CUST03490,0.2573307285116588,Low Risk,0,21,94.24,6,Month-to-month,Credit card (automatic)
+CUST01548,0.25727624673056,Low Risk,0,71,94.24,3,Month-to-month,Electronic check
+CUST05398,0.25726874029139635,Low Risk,0,40,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03801,0.2572497659057871,Low Risk,1,23,94.24,2,Month-to-month,Credit card (automatic)
+CUST05195,0.2572497659057871,Low Risk,1,23,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03164,0.25724067544872126,Low Risk,0,38,94.24,0,Month-to-month,Credit card (automatic)
+CUST06758,0.2572249513128753,Low Risk,0,71,94.24,4,Month-to-month,Mailed check
+CUST04485,0.2571495612733746,Low Risk,0,39,94.24,3,Month-to-month,Credit card (automatic)
+CUST00507,0.2571495612733746,Low Risk,1,39,94.24,3,Month-to-month,Credit card (automatic)
+CUST02683,0.25712359258834505,Low Risk,0,44,94.24,3,Month-to-month,Mailed check
+CUST07038,0.2570594098724252,Low Risk,0,25,94.24,2,Month-to-month,Credit card (automatic)
+CUST02659,0.2570581437912818,Low Risk,0,43,94.24,1,Month-to-month,Electronic check
+CUST04864,0.2570355524433701,Low Risk,0,38,94.24,4,Month-to-month,Credit card (automatic)
+CUST01431,0.2570296343860443,Low Risk,0,37,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST02161,0.2570068768114155,Low Risk,0,43,94.24,2,Month-to-month,Electronic check
+CUST01572,0.25697844160034955,Low Risk,1,36,94.24,3,Month-to-month,Credit card (automatic)
+CUST06156,0.25696978610291704,Low Risk,0,44,94.24,6,Month-to-month,Mailed check
+CUST04686,0.25695561651981075,Low Risk,0,43,94.24,3,Month-to-month,Electronic check
+CUST02904,0.256946968835536,Low Risk,0,32,94.24,1,Month-to-month,Bank transfer (automatic)
+CUST02307,0.256946968835536,Low Risk,0,32,94.24,1,Month-to-month,Credit card (automatic)
+CUST05620,0.25693374138630626,Low Risk,1,35,94.24,3,Month-to-month,Credit card (automatic)
+CUST01094,0.2569173475056947,Low Risk,1,33,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06875,0.25689571636128,Low Risk,0,32,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST06355,0.25689571636128,Low Risk,0,32,94.24,2,Month-to-month,Credit card (automatic)
+CUST01038,0.25689571636128,Low Risk,0,32,94.24,2,Month-to-month,Credit card (automatic)
+CUST05591,0.2568893383700025,Low Risk,0,29,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST00142,0.25688345327663975,Low Risk,1,7,94.24,2,Month-to-month,Electronic check
+CUST00911,0.25688322876169983,Low Risk,0,31,94.24,2,Month-to-month,Credit card (automatic)
+CUST02265,0.25688076858220765,Low Risk,0,30,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST01109,0.25688076858220765,Low Risk,1,30,94.24,2,Month-to-month,Bank transfer (automatic)
+CUST03612,0.25688076858220765,Low Risk,1,30,94.24,2,Month-to-month,Credit card (automatic)
+CUST04769,0.2568660988974166,Low Risk,1,33,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST05877,0.2568380934177226,Low Risk,0,29,94.24,3,Month-to-month,Bank transfer (automatic)
+CUST03021,0.25677828760514493,Low Risk,1,30,94.24,4,Month-to-month,Credit card (automatic)
+CUST01024,0.2567364805721968,Low Risk,0,42,94.24,4,Month-to-month,Mailed check
+CUST04540,0.2567364805721968,Low Risk,0,42,94.24,4,Month-to-month,Mailed check
+CUST02189,0.2567202137792139,Low Risk,0,9,94.24,1,Month-to-month,Electronic check
+CUST05471,0.2566710962661951,Low Risk,1,41,94.24,2,Month-to-month,Mailed check
+CUST00401,0.2566681938153049,Low Risk,1,68,94.24,6,Month-to-month,Mailed check
+CUST05381,0.2566198798152156,Low Risk,0,41,94.24,3,Month-to-month,Mailed check
+CUST00864,0.2565033137388985,Low Risk,0,40,94.24,2,Month-to-month,Electronic check
+CUST06466,0.2563349218758159,Low Risk,1,71,94.24,0,Month-to-month,Electronic check
+CUST05982,0.2563213647515957,Low Risk,0,65,94.24,4,Month-to-month,Electronic check
+CUST06847,0.2562701940270759,Low Risk,1,65,94.24,5,Month-to-month,Electronic check
+CUST03994,0.256223983746242,Low Risk,0,64,94.24,3,Month-to-month,Mailed check
+CUST03483,0.25618142446884656,Low Risk,1,71,94.24,3,Month-to-month,Mailed check
+CUST05138,0.2561168136216205,Low Risk,0,38,94.24,3,Month-to-month,Mailed check
+CUST01222,0.256085013769701,Low Risk,1,70,94.24,2,Month-to-month,Mailed check
+CUST00097,0.2560496934920157,Low Risk,1,9,94.24,1,Month-to-month,Electronic check
+CUST01570,0.2560145324205237,Low Risk,0,38,94.24,5,Month-to-month,Mailed check
+CUST06885,0.2559380716441569,Low Risk,0,69,94.24,2,Month-to-month,Mailed check
+CUST05994,0.2558840158185735,Low Risk,1,36,94.24,1,Month-to-month,Mailed check
+CUST04528,0.2557306955706654,Low Risk,0,36,94.24,4,Month-to-month,Electronic check
+CUST04228,0.25571657079809573,Low Risk,0,35,94.24,1,Month-to-month,Mailed check
+CUST05888,0.2556876540110446,Low Risk,0,60,94.24,2,Month-to-month,Electronic check
+CUST06798,0.2556797614190926,Low Risk,0,8,94.24,1,Month-to-month,Electronic check
+CUST06887,0.25563656630978465,Low Risk,1,60,94.24,3,Month-to-month,Electronic check
+CUST01667,0.255614394511497,Low Risk,0,35,94.24,3,Month-to-month,Mailed check
+CUST04609,0.25557797882819405,Low Risk,0,61,94.24,7,Month-to-month,Electronic check
+CUST01427,0.25554919771996826,Low Risk,0,34,94.24,1,Month-to-month,Mailed check
+CUST01012,0.25552652152957644,Low Risk,0,8,94.24,4,Month-to-month,Electronic check
+CUST05538,0.25550126082551755,Low Risk,0,66,94.24,2,Month-to-month,Mailed check
+CUST04167,0.25550126082551755,Low Risk,0,66,94.24,2,Month-to-month,Electronic check
+CUST05919,0.2554929420878216,Low Risk,0,67,94.24,5,Month-to-month,Mailed check
+CUST04148,0.2554499151794061,Low Risk,0,10,94.24,0,Month-to-month,Mailed check
+CUST06582,0.2554470653573815,Low Risk,0,34,94.24,3,Month-to-month,Electronic check
+CUST02903,0.2554470653573815,Low Risk,0,34,94.24,3,Month-to-month,Electronic check
+CUST01150,0.25539914104863404,Low Risk,0,66,94.24,4,Month-to-month,Mailed check
+CUST01036,0.25539914104863404,Low Risk,0,66,94.24,4,Month-to-month,Mailed check
+CUST05761,0.25539885868022444,Low Risk,1,10,94.24,1,Month-to-month,Mailed check
+CUST00421,0.25529676579701255,Low Risk,0,10,94.24,3,Month-to-month,Electronic check
+CUST06972,0.25529633932055645,Low Risk,0,58,94.24,4,Month-to-month,Electronic check
+CUST02014,0.2552550762404846,Low Risk,0,57,94.24,2,Month-to-month,Electronic check
+CUST06494,0.25524572941401885,Low Risk,0,10,94.24,4,Month-to-month,Mailed check
+CUST00286,0.255228774020299,Low Risk,0,33,94.24,4,Month-to-month,Electronic check
+CUST01205,0.25516265082984274,Low Risk,0,64,94.24,3,Month-to-month,Electronic check
+CUST01043,0.25494550979910685,Low Risk,0,31,94.24,3,Month-to-month,Electronic check
+CUST01621,0.2549292806684142,Low Risk,0,62,94.24,2,Month-to-month,Electronic check
+CUST03725,0.2548945196011816,Low Risk,0,31,94.24,4,Month-to-month,Electronic check
+CUST01870,0.25488042519689746,Low Risk,0,30,94.24,1,Month-to-month,Mailed check
+CUST06932,0.25482944356392634,Low Risk,1,30,94.24,2,Month-to-month,Mailed check
+CUST03066,0.25482944356392634,Low Risk,0,30,94.24,2,Month-to-month,Electronic check
+CUST06447,0.25481416435427484,Low Risk,0,10,94.24,3,Month-to-month,Mailed check
+CUST02277,0.2547275004303876,Low Risk,0,30,94.24,4,Month-to-month,Mailed check
+CUST06982,0.25461019062251017,Low Risk,0,9,94.24,3,Month-to-month,Electronic check
+CUST04047,0.2545974154264057,Low Risk,0,28,94.24,0,Month-to-month,Mailed check
+CUST04458,0.25456024208850075,Low Risk,0,59,94.24,1,Month-to-month,Electronic check
+CUST01203,0.25454647106318196,Low Risk,1,28,94.24,1,Month-to-month,Electronic check
+CUST05348,0.25450961380379816,Low Risk,0,29,94.24,5,Month-to-month,Mailed check
+CUST04911,0.2544955334134223,Low Risk,0,28,94.24,2,Month-to-month,Electronic check
+CUST05452,0.2544955334134223,Low Risk,1,28,94.24,2,Month-to-month,Mailed check
+CUST05533,0.2544583698730414,Low Risk,0,59,94.24,3,Month-to-month,Mailed check
+CUST04482,0.2544446024776348,Low Risk,0,28,94.24,3,Month-to-month,Mailed check
+CUST00821,0.2544446024776348,Low Risk,0,28,94.24,3,Month-to-month,Electronic check
+CUST06999,0.25441529872375424,Low Risk,1,51,94.24,2,Month-to-month,Electronic check
+CUST05782,0.254393678256327,Low Risk,0,28,94.24,4,Month-to-month,Electronic check
+CUST01027,0.2543796020913192,Low Risk,0,27,94.24,1,Month-to-month,Mailed check
+CUST05072,0.25433013168291485,Low Risk,0,50,94.24,1,Month-to-month,Electronic check
+CUST06068,0.2543203246689538,Low Risk,0,58,94.24,3,Month-to-month,Electronic check
+CUST05297,0.2542423231160639,Low Risk,1,72,94.24,1,Month-to-month,Mailed check
+CUST02740,0.25422832014910146,Low Risk,0,50,94.24,3,Month-to-month,Mailed check
+CUST03339,0.25422832014910146,Low Risk,0,50,94.24,3,Month-to-month,Mailed check
+CUST02902,0.25422713800388286,Low Risk,0,11,94.24,3,Month-to-month,Electronic check
+CUST00323,0.2541774244568862,Low Risk,1,50,94.24,4,Month-to-month,Mailed check
+CUST00540,0.2541774244568862,Low Risk,0,50,94.24,4,Month-to-month,Mailed check
+CUST01682,0.2541759797873019,Low Risk,0,27,94.24,5,Month-to-month,Electronic check
+CUST04197,0.2541405347529369,Low Risk,0,72,94.24,3,Month-to-month,Electronic check
+CUST02417,0.2541405347529369,Low Risk,1,72,94.24,3,Month-to-month,Mailed check
+CUST05113,0.25410271301270937,Low Risk,0,71,94.24,1,Month-to-month,Mailed check
+CUST03730,0.25400179712089754,Low Risk,0,11,94.24,1,Month-to-month,Mailed check
+CUST01754,0.2539941633385714,Low Risk,0,9,94.24,2,Month-to-month,Electronic check
+CUST02975,0.2539524758859799,Low Risk,1,10,94.24,1,Month-to-month,Electronic check
+CUST01674,0.2539509313355146,Low Risk,0,11,94.24,2,Month-to-month,Mailed check
+CUST02892,0.25394329856152265,Low Risk,0,9,94.24,3,Month-to-month,Mailed check
+CUST06544,0.2539000722695032,Low Risk,1,11,94.24,3,Month-to-month,Electronic check
+CUST02485,0.25384921992336423,Low Risk,0,11,94.24,4,Month-to-month,Mailed check
+CUST00964,0.25377773525420655,Low Risk,0,24,94.24,3,Month-to-month,Electronic check
+CUST01176,0.25377726583239985,Low Risk,1,47,94.24,4,Month-to-month,Mailed check
+CUST02256,0.25377726583239985,Low Risk,1,47,94.24,4,Month-to-month,Electronic check
+CUST06842,0.25374845921726835,Low Risk,1,46,94.24,2,Month-to-month,Electronic check
+CUST05672,0.2536703947676987,Low Risk,0,45,94.24,1,Month-to-month,Mailed check
+CUST00989,0.253662019656231,Low Risk,0,23,94.24,2,Month-to-month,Mailed check
+CUST06393,0.2536174774140797,Low Risk,0,52,94.24,1,Month-to-month,Mailed check
+CUST00034,0.25356875752598457,Low Risk,0,45,94.24,3,Month-to-month,Electronic check
+CUST01867,0.25356875752598457,Low Risk,1,45,94.24,3,Month-to-month,Mailed check
+CUST00895,0.25350957720158174,Low Risk,0,23,94.24,5,Month-to-month,Mailed check
+CUST06812,0.2535023547724494,Low Risk,0,12,94.24,0,Month-to-month,Mailed check
+CUST01791,0.25350193930227005,Low Risk,0,67,94.24,2,Month-to-month,Electronic check
+CUST06407,0.25349436491249816,Low Risk,0,46,94.24,7,Month-to-month,Mailed check
+CUST03160,0.25348790450339415,Low Risk,1,51,94.24,1,Month-to-month,Electronic check
+CUST00608,0.2534447344779457,Low Risk,0,22,94.24,3,Month-to-month,Mailed check
+CUST00968,0.2534007619989105,Low Risk,1,12,94.24,2,Month-to-month,Mailed check
+CUST05174,0.2534007619989105,Low Risk,0,12,94.24,2,Month-to-month,Mailed check
+CUST04034,0.2533431569593586,Low Risk,0,22,94.24,5,Month-to-month,Electronic check
+CUST01068,0.25332911917241263,Low Risk,0,21,94.24,2,Month-to-month,Electronic check
+CUST04532,0.25331597594740857,Low Risk,1,66,94.24,3,Month-to-month,Mailed check
+CUST03244,0.25330904085366723,Low Risk,0,50,94.24,2,Month-to-month,Electronic check
+CUST00195,0.253182550295086,Low Risk,0,49,94.24,2,Month-to-month,Electronic check
+CUST00226,0.2531818060299434,Low Risk,0,65,94.24,3,Month-to-month,Electronic check
+CUST06703,0.253173115348715,Low Risk,0,41,94.24,1,Month-to-month,Electronic check
+CUST04378,0.2531627772189112,Low Risk,0,20,94.24,2,Month-to-month,Mailed check
+CUST05362,0.253153885368494,Low Risk,0,12,94.24,3,Month-to-month,Electronic check
+CUST06981,0.2531310487346817,Low Risk,1,65,94.24,4,Month-to-month,Electronic check
+CUST05258,0.2531013916509754,Low Risk,1,72,94.24,2,Month-to-month,Mailed check
+CUST05949,0.2531013916509754,Low Risk,0,72,94.24,2,Month-to-month,Electronic check
+CUST00469,0.25309941889743065,Low Risk,0,64,94.24,2,Month-to-month,Mailed check
+CUST05519,0.2530105330820721,Low Risk,1,20,94.24,5,Month-to-month,Electronic check
+CUST04218,0.25300328485627777,Low Risk,1,40,94.24,2,Month-to-month,Mailed check
+CUST04464,0.2529346717938628,Low Risk,0,47,94.24,2,Month-to-month,Electronic check
+CUST04831,0.2529018243295603,Low Risk,0,40,94.24,4,Month-to-month,Electronic check
+CUST05580,0.25283030997538425,Low Risk,0,18,94.24,2,Month-to-month,Mailed check
+CUST04949,0.25283030997538425,Low Risk,0,18,94.24,2,Month-to-month,Electronic check
+CUST01411,0.25281910324692103,Low Risk,1,11,94.24,5,Month-to-month,Mailed check
+CUST02956,0.25278093492655274,Low Risk,0,70,94.24,3,Month-to-month,Mailed check
+CUST02889,0.2527795992958451,Low Risk,0,18,94.24,3,Month-to-month,Electronic check
+CUST01034,0.2527627839290225,Low Risk,0,46,94.24,3,Month-to-month,Electronic check
+CUST00548,0.25273447160787704,Low Risk,0,39,94.24,5,Month-to-month,Mailed check
+CUST00626,0.2527217984319473,Low Risk,0,38,94.24,3,Month-to-month,Mailed check
+CUST03149,0.25271488007646614,Low Risk,0,17,94.24,1,Month-to-month,Electronic check
+CUST03628,0.25267412923538524,Low Risk,0,13,94.24,2,Month-to-month,Mailed check
+CUST04095,0.25267412923538524,Low Risk,0,13,94.24,2,Month-to-month,Electronic check
+CUST03045,0.25267412923538524,Low Risk,1,13,94.24,2,Month-to-month,Mailed check
+CUST00870,0.25266116968885993,Low Risk,1,37,94.24,2,Month-to-month,Electronic check
+CUST05648,0.2526134960950321,Low Risk,1,17,94.24,3,Month-to-month,Electronic check
+CUST06363,0.25261048146449355,Low Risk,1,37,94.24,3,Month-to-month,Mailed check
+CUST00987,0.2525772442287767,Low Risk,0,44,94.24,2,Month-to-month,Electronic check
+CUST01975,0.25256378808348684,Low Risk,0,43,94.24,0,Month-to-month,Electronic check
+CUST02222,0.252562814202617,Low Risk,0,17,94.24,4,Month-to-month,Electronic check
+CUST05329,0.25254612749884703,Low Risk,1,69,94.24,5,Month-to-month,Electronic check
+CUST04317,0.2525274541144468,Low Risk,0,60,94.24,3,Month-to-month,Mailed check
+CUST00736,0.2525150453237594,Low Risk,1,68,94.24,3,Month-to-month,Electronic check
+CUST00047,0.25251213904304975,Low Risk,1,17,94.24,5,Month-to-month,Mailed check
+CUST03645,0.2524981317312123,Low Risk,0,16,94.24,2,Month-to-month,Mailed check
+CUST00166,0.2524981317312123,Low Risk,0,16,94.24,2,Month-to-month,Electronic check
+CUST03376,0.25248849796569306,Low Risk,0,13,94.24,4,Month-to-month,Mailed check
+CUST06865,0.25245148928118966,Low Risk,0,36,94.24,4,Month-to-month,Mailed check
+CUST03371,0.2524477270808874,Low Risk,1,35,94.24,2,Month-to-month,Electronic check
+CUST03905,0.25241178241707174,Low Risk,0,43,94.24,3,Month-to-month,Electronic check
+CUST04718,0.2524008289154485,Low Risk,0,36,94.24,5,Month-to-month,Mailed check
+CUST02253,0.2524008289154485,Low Risk,1,36,94.24,5,Month-to-month,Electronic check
+CUST00913,0.2523968053355489,Low Risk,0,16,94.24,4,Month-to-month,Mailed check
+CUST05188,0.25238280226133153,Low Risk,0,15,94.24,1,Month-to-month,Electronic check
+CUST05524,0.2523545817868369,Low Risk,1,66,94.24,1,Month-to-month,Electronic check
+CUST04145,0.25234613233462266,Low Risk,0,34,94.24,2,Month-to-month,Electronic check
+CUST06219,0.25234613233462266,Low Risk,1,34,94.24,2,Month-to-month,Mailed check
+CUST06590,0.25232503447736593,Low Risk,0,58,94.24,2,Month-to-month,Electronic check
+CUST03186,0.25228150652699405,Low Risk,1,15,94.24,3,Month-to-month,Electronic check
+CUST01429,0.25228150652699405,Low Risk,1,15,94.24,3,Month-to-month,Electronic check
+CUST05429,0.25226939470587434,Low Risk,1,13,94.24,5,Month-to-month,Mailed check
+CUST03586,0.25218023773477094,Low Risk,0,15,94.24,5,Month-to-month,Electronic check
+CUST06471,0.2521731240248742,Low Risk,1,58,94.24,5,Month-to-month,Mailed check
+CUST05303,0.25214996116168764,Low Risk,1,57,94.24,3,Month-to-month,Electronic check
+CUST03059,0.2521240790838525,Low Risk,0,65,94.24,3,Month-to-month,Mailed check
+CUST04867,0.25210459259401397,Low Risk,0,14,94.24,2,Month-to-month,Mailed check
+CUST06154,0.252082611185518,Low Risk,0,40,94.24,3,Month-to-month,Mailed check
+CUST04414,0.252082611185518,Low Risk,0,40,94.24,3,Month-to-month,Mailed check
+CUST00937,0.2520799353802363,Low Risk,1,14,94.24,2,Month-to-month,Electronic check
+CUST06710,0.2520799353802363,Low Risk,0,14,94.24,2,Month-to-month,Electronic check
+CUST01801,0.2520799353802363,Low Risk,0,14,94.24,2,Month-to-month,Mailed check
+CUST02443,0.2520734622657884,Low Risk,0,65,94.24,4,Month-to-month,Electronic check
+CUST03639,0.2520676073729133,Low Risk,0,14,94.24,2,Month-to-month,Electronic check
+CUST00579,0.2520466426627689,Low Risk,0,64,94.24,2,Month-to-month,Electronic check
+CUST02348,0.25201569680711017,Low Risk,1,14,94.24,4,Month-to-month,Electronic check
+CUST02778,0.2519960361526649,Low Risk,0,64,94.24,3,Month-to-month,Electronic check
+CUST04251,0.25198139532649183,Low Risk,0,40,94.24,5,Month-to-month,Mailed check
+CUST05764,0.2519787202336275,Low Risk,0,14,94.24,4,Month-to-month,Mailed check
+CUST06183,0.25197856507442334,Low Risk,0,39,94.24,3,Month-to-month,Mailed check
+CUST01770,0.251952770134285,Low Risk,0,14,94.24,5,Month-to-month,Mailed check
+CUST05838,0.2519498061835674,Low Risk,0,13,94.24,3,Month-to-month,Mailed check
+CUST03847,0.2519498061835674,Low Risk,0,13,94.24,3,Month-to-month,Mailed check
+CUST03187,0.2519450752413647,Low Risk,0,15,94.24,2,Month-to-month,Electronic check
+CUST02972,0.2519157996840667,Low Risk,0,14,94.24,5,Month-to-month,Electronic check
+CUST05054,0.2518777136952641,Low Risk,0,38,94.24,3,Month-to-month,Electronic check
+CUST04396,0.2518522666932843,Low Risk,0,29,94.24,3,Month-to-month,Mailed check
+CUST07017,0.2518448275698906,Low Risk,0,62,94.24,1,Month-to-month,Mailed check
+CUST00181,0.25180168607174586,Low Risk,1,29,94.24,4,Month-to-month,Mailed check
+CUST06776,0.25180168607174586,Low Risk,0,29,94.24,4,Month-to-month,Mailed check
+CUST06986,0.2517840645132535,Low Risk,1,12,94.24,3,Month-to-month,Electronic check
+CUST03853,0.251780304433435,Low Risk,1,37,94.24,3,Month-to-month,Electronic check
+CUST04040,0.25171405794005497,Low Risk,0,17,94.24,2,Month-to-month,Mailed check
+CUST03844,0.251705674074836,Low Risk,1,26,94.24,2,Month-to-month,Mailed check
+CUST06340,0.25166895138709355,Low Risk,0,11,94.24,2,Month-to-month,Electronic check
+CUST01532,0.251663495738615,Low Risk,0,17,94.24,3,Month-to-month,Electronic check
+CUST00314,0.25166311702016886,Low Risk,0,27,94.24,4,Month-to-month,Mailed check
+CUST00409,0.25164298295601795,Low Risk,1,18,94.24,2,Month-to-month,Electronic check
+CUST01430,0.25161294027853387,Low Risk,0,17,94.24,4,Month-to-month,Electronic check
+CUST02017,0.2516023979471921,Low Risk,0,52,94.24,2,Month-to-month,Electronic check
+CUST03917,0.2515977517156771,Low Risk,0,60,94.24,1,Month-to-month,Electronic check
+CUST04402,0.2515835362460943,Low Risk,0,23,94.24,2,Month-to-month,Electronic check
+CUST03664,0.25155839344882747,Low Risk,0,15,94.24,2,Month-to-month,Electronic check
+CUST02243,0.25155839344882747,Low Risk,0,15,94.24,2,Month-to-month,Electronic check
+CUST03875,0.2515116289093541,Low Risk,0,34,94.24,3,Month-to-month,Mailed check
+CUST03374,0.25150836154452555,Low Risk,1,21,94.24,3,Month-to-month,Electronic check
+CUST01238,0.251501310065192,Low Risk,1,52,94.24,4,Month-to-month,Mailed check
+CUST06974,0.2514966650731087,Low Risk,0,60,94.24,3,Month-to-month,Mailed check
+CUST02437,0.2514881885425725,Low Risk,1,51,94.24,2,Month-to-month,Mailed check
+CUST03292,0.25148159010193044,Low Risk,0,33,94.24,2,Month-to-month,Electronic check
+CUST02804,0.25147689706291065,Low Risk,0,17,94.24,2,Month-to-month,Electronic check
+CUST00953,0.25146347668292995,Low Risk,0,22,94.24,4,Month-to-month,Mailed check
+CUST04335,0.25145731730642507,Low Risk,0,15,94.24,4,Month-to-month,Electronic check
+CUST02751,0.2514527982591471,Low Risk,0,10,94.24,3,Month-to-month,Electronic check
+CUST03389,0.25143105890632017,Low Risk,0,33,94.24,3,Month-to-month,Electronic check
+CUST00700,0.25143105890632017,Low Risk,0,33,94.24,3,Month-to-month,Electronic check
+CUST03788,0.251416877548355,Low Risk,1,20,94.24,5,Month-to-month,Electronic check
+CUST03775,0.2514022709057213,Low Risk,0,10,94.24,4,Month-to-month,Mailed check
+CUST05162,0.2513883044548485,Low Risk,1,9,94.24,1,Month-to-month,Mailed check
+CUST06311,0.2513758426677471,Low Risk,1,17,94.24,4,Month-to-month,Mailed check
+CUST02048,0.25135048580027824,Low Risk,0,16,94.24,1,Month-to-month,Mailed check
+CUST03839,0.2513467301458673,Low Risk,1,18,94.24,2,Month-to-month,Mailed check
+CUST05901,0.25132551091896455,Low Risk,0,50,94.24,3,Month-to-month,Mailed check
+CUST03962,0.25132480851613465,Low Risk,0,59,94.24,4,Month-to-month,Electronic check
+CUST02846,0.25129621695075033,Low Risk,1,18,94.24,3,Month-to-month,Electronic check
+CUST07023,0.2512733115019547,Low Risk,0,8,94.24,0,Month-to-month,Electronic check
+CUST06554,0.2512660354429986,Low Risk,0,49,94.24,2,Month-to-month,Mailed check
+CUST00281,0.2512660354429986,Low Risk,0,49,94.24,2,Month-to-month,Mailed check
+CUST05885,0.251224496939982,Low Risk,0,50,94.24,5,Month-to-month,Mailed check
+CUST00350,0.2512223314672085,Low Risk,0,30,94.24,3,Month-to-month,Electronic check
+CUST03540,0.25120502191736144,Low Risk,0,58,94.24,4,Month-to-month,Mailed check
+CUST06894,0.25119896494538646,Low Risk,1,16,94.24,4,Month-to-month,Mailed check
+CUST01420,0.25119896494538646,Low Risk,1,16,94.24,4,Month-to-month,Electronic check
+CUST00087,0.2511667923713953,Low Risk,1,28,94.24,2,Month-to-month,Mailed check
+CUST02121,0.2511373333300573,Low Risk,0,57,94.24,3,Month-to-month,Mailed check
+CUST06164,0.2511373333300573,Low Risk,0,57,94.24,3,Month-to-month,Mailed check
+CUST00468,0.2511373333300573,Low Risk,0,57,94.24,3,Month-to-month,Electronic check
+CUST05368,0.25112310486358236,Low Risk,0,25,94.24,1,Month-to-month,Electronic check
+CUST05999,0.25112179767428927,Low Risk,0,56,94.24,1,Month-to-month,Mailed check
+CUST00726,0.25111763442910273,Low Risk,0,21,94.24,2,Month-to-month,Electronic check
+CUST01440,0.25111454842100756,Low Risk,0,49,94.24,5,Month-to-month,Electronic check
+CUST06172,0.25107534232551887,Low Risk,0,27,94.24,3,Month-to-month,Mailed check
+CUST06127,0.25102083812029324,Low Risk,0,56,94.24,3,Month-to-month,Mailed check
+CUST01073,0.25102083812029324,Low Risk,0,56,94.24,3,Month-to-month,Mailed check
+CUST00045,0.25099312984717637,Low Risk,0,26,94.24,4,Month-to-month,Electronic check
+CUST06562,0.25096474099409655,Low Risk,0,23,94.24,4,Month-to-month,Mailed check
+CUST01311,0.2509521388796267,Low Risk,0,47,94.24,4,Month-to-month,Electronic check
+CUST06933,0.2509061245400433,Low Risk,0,55,94.24,3,Month-to-month,Electronic check
+CUST01837,0.25089203267686727,Low Risk,0,6,94.24,1,Month-to-month,Mailed check
+CUST06362,0.25086719664751367,Low Risk,0,17,94.24,0,Month-to-month,Mailed check
+CUST00346,0.2508556702230133,Low Risk,0,55,94.24,4,Month-to-month,Electronic check
+CUST05305,0.2508504891784266,Low Risk,0,45,94.24,2,Month-to-month,Mailed check
+CUST05490,0.2508415802446515,Low Risk,0,6,94.24,2,Month-to-month,Electronic check
+CUST03724,0.2508415802446515,Low Risk,0,6,94.24,2,Month-to-month,Mailed check
+CUST01878,0.2507911345614211,Low Risk,0,6,94.24,3,Month-to-month,Mailed check
+CUST01968,0.25074284697257465,Low Risk,0,54,94.24,4,Month-to-month,Mailed check
+CUST06404,0.2507044858391577,Low Risk,1,18,94.24,3,Month-to-month,Electronic check
+CUST04104,0.2506654407042911,Low Risk,0,17,94.24,4,Month-to-month,Electronic check
+CUST03743,0.2505754829187043,Low Risk,0,5,94.24,4,Month-to-month,Mailed check
+CUST04573,0.2505736450889776,Low Risk,0,52,94.24,3,Month-to-month,Electronic check
+CUST01627,0.25053258843346304,Low Risk,1,41,94.24,1,Month-to-month,Mailed check
+CUST01039,0.25053258843346304,Low Risk,1,41,94.24,1,Month-to-month,Mailed check
+CUST05837,0.25051746935154184,Low Risk,0,51,94.24,2,Month-to-month,Electronic check
+CUST04054,0.25041667151482183,Low Risk,1,51,94.24,4,Month-to-month,Electronic check
+CUST05608,0.2504103426865685,Low Risk,1,4,94.24,4,Month-to-month,Electronic check
+CUST03072,0.25037714962453556,Low Risk,0,20,94.24,2,Month-to-month,Mailed check
+CUST02224,0.2503460268349912,Low Risk,1,3,94.24,2,Month-to-month,Mailed check
+CUST03711,0.25032676613203664,Low Risk,0,20,94.24,3,Month-to-month,Mailed check
+CUST01425,0.25026205888443,Low Risk,0,50,94.24,5,Month-to-month,Mailed check
+CUST04921,0.250250195716002,Low Risk,0,19,94.24,1,Month-to-month,Electronic check
+CUST04665,0.2502193429106178,Low Risk,1,39,94.24,4,Month-to-month,Mailed check
+CUST03400,0.2502116908213435,Low Risk,1,50,94.24,6,Month-to-month,Electronic check
+CUST05932,0.25018627721029957,Low Risk,0,21,94.24,3,Month-to-month,Electronic check
+CUST04747,0.25018627721029957,Low Risk,1,21,94.24,3,Month-to-month,Mailed check
+CUST00667,0.250180987342042,Low Risk,0,2,94.24,2,Month-to-month,Mailed check
+CUST05806,0.2501757455501266,Low Risk,0,37,94.24,2,Month-to-month,Mailed check
+CUST04475,0.2501359193106157,Low Risk,0,21,94.24,4,Month-to-month,Mailed check
+CUST00855,0.2501111216976162,Low Risk,1,36,94.24,2,Month-to-month,Electronic check
+CUST01448,0.2501024299395004,Low Risk,0,35,94.24,1,Month-to-month,Mailed check
+CUST05009,0.25008027971726265,Low Risk,0,2,94.24,4,Month-to-month,Mailed check
+CUST06945,0.25007239429094474,Low Risk,0,22,94.24,3,Month-to-month,Mailed check
+CUST06196,0.25006077388040243,Low Risk,0,36,94.24,3,Month-to-month,Electronic check
+CUST02338,0.2500246963561354,Low Risk,0,37,94.24,5,Month-to-month,Electronic check
+CUST06221,0.24998177469196342,Low Risk,0,23,94.24,3,Month-to-month,Electronic check
+CUST02958,0.2499719612112472,Low Risk,0,46,94.24,3,Month-to-month,Mailed check
+CUST04697,0.24996568530981927,Low Risk,1,1,94.24,3,Month-to-month,Mailed check
+CUST03449,0.24995271941954486,Low Risk,1,33,94.24,2,Month-to-month,Mailed check
+CUST02704,0.2499514102555441,Low Risk,0,35,94.24,4,Month-to-month,Mailed check
+CUST01759,0.2499514102555441,Low Risk,0,35,94.24,4,Month-to-month,Mailed check
+CUST01005,0.24990253349404598,Low Risk,0,27,94.24,1,Month-to-month,Mailed check
+CUST02157,0.24989844661532523,Low Risk,1,34,94.24,4,Month-to-month,Electronic check
+CUST01433,0.24988218223269232,Low Risk,0,31,94.24,2,Month-to-month,Mailed check
+CUST02909,0.24988161909352455,Low Risk,0,45,94.24,3,Month-to-month,Electronic check
+CUST01895,0.2498738644645083,Low Risk,1,26,94.24,2,Month-to-month,Mailed check
+CUST01581,0.2498738644645083,Low Risk,1,26,94.24,2,Month-to-month,Electronic check
+CUST00446,0.24986129351266134,Low Risk,1,24,94.24,4,Month-to-month,Mailed check
+CUST05393,0.24986129351266134,Low Risk,0,24,94.24,4,Month-to-month,Mailed check
+CUST01685,0.24985946021807748,Low Risk,0,30,94.24,2,Month-to-month,Electronic check
+CUST02058,0.24985946021807748,Low Risk,0,30,94.24,2,Month-to-month,Electronic check
+CUST02369,0.24984621516106953,Low Risk,0,29,94.24,2,Month-to-month,Mailed check
+CUST03174,0.249831865147485,Low Risk,0,31,94.24,3,Month-to-month,Electronic check
+CUST01919,0.24983130208394574,Low Risk,1,45,94.24,4,Month-to-month,Mailed check
+CUST01616,0.24982990286322374,Low Risk,0,20,94.24,5,Month-to-month,Electronic check
+CUST05544,0.2498117685177229,Low Risk,0,43,94.24,1,Month-to-month,Electronic check
+CUST05967,0.24980081300387436,Low Risk,1,0,94.24,3,Month-to-month,Electronic check
+CUST04681,0.24979691854224667,Low Risk,0,21,94.24,2,Month-to-month,Electronic check
+CUST04942,0.24979461087325128,Low Risk,0,44,94.24,3,Month-to-month,Mailed check
+CUST01447,0.2497505068481555,Low Risk,0,0,94.24,4,Month-to-month,Electronic check
+CUST04361,0.24974280929139492,Low Risk,0,28,94.24,4,Month-to-month,Electronic check
+CUST04830,0.24971116002157523,Low Risk,0,43,94.24,3,Month-to-month,Mailed check
+CUST03231,0.24970020745132113,Low Risk,0,0,94.24,5,Month-to-month,Mailed check
+CUST04278,0.24969631403611214,Low Risk,1,21,94.24,4,Month-to-month,Mailed check
+CUST02474,0.24969631403611214,Low Risk,1,21,94.24,4,Month-to-month,Electronic check
+CUST05124,0.24959308072100547,Low Risk,0,22,94.24,3,Month-to-month,Electronic check
+CUST03661,0.249534985567749,Low Risk,0,40,94.24,2,Month-to-month,Mailed check
+CUST06632,0.249534985567749,Low Risk,0,40,94.24,2,Month-to-month,Electronic check
+CUST03370,0.249534985567749,Low Risk,0,40,94.24,2,Month-to-month,Electronic check
+CUST00460,0.249534985567749,Low Risk,0,40,94.24,2,Month-to-month,Electronic check
+CUST03337,0.24953095085492025,Low Risk,1,42,94.24,5,Month-to-month,Mailed check
+CUST01841,0.24949253100761168,Low Risk,0,22,94.24,5,Month-to-month,Electronic check
+CUST02287,0.2494344514788227,Low Risk,0,40,94.24,4,Month-to-month,Mailed check
+CUST04112,0.24941586086518183,Low Risk,0,23,94.24,4,Month-to-month,Mailed check
+CUST02768,0.2494011529051762,Low Risk,0,37,94.24,1,Month-to-month,Electronic check
+CUST02869,0.24930645463743892,Low Risk,0,38,94.24,4,Month-to-month,Electronic check
+CUST02664,0.24926524064718197,Low Risk,0,26,94.24,2,Month-to-month,Mailed check
+CUST03697,0.24925048499386715,Low Risk,1,36,94.24,3,Month-to-month,Electronic check
+CUST05006,0.24922000491932048,Low Risk,0,34,94.24,2,Month-to-month,Electronic check
+CUST02063,0.24921964123425555,Low Risk,1,32,94.24,1,Month-to-month,Electronic check
+CUST06070,0.2492172078162682,Low Risk,0,39,94.24,7,Month-to-month,Mailed check
+CUST05056,0.2492170252391247,Low Risk,0,27,94.24,2,Month-to-month,Electronic check
+CUST00897,0.2492074016324809,Low Risk,1,31,94.24,1,Month-to-month,Mailed check
+CUST00369,0.2492074016324809,Low Risk,1,31,94.24,1,Month-to-month,Mailed check
+CUST05612,0.24920667816829578,Low Risk,0,35,94.24,3,Month-to-month,Electronic check
+CUST05304,0.2491697768807833,Low Risk,1,34,94.24,3,Month-to-month,Electronic check
+CUST00194,0.2491697768807833,Low Risk,0,34,94.24,3,Month-to-month,Electronic check
+CUST06915,0.2491697768807833,Low Risk,0,34,94.24,3,Month-to-month,Electronic check
+CUST03083,0.24915476429572578,Low Risk,1,30,94.24,2,Month-to-month,Mailed check
+CUST01747,0.24910623244446473,Low Risk,0,35,94.24,5,Month-to-month,Mailed check
+CUST04897,0.24900653685352794,Low Risk,0,31,94.24,5,Month-to-month,Mailed check
